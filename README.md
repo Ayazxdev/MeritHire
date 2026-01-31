@@ -8,7 +8,7 @@ This repository contains the **complete production-style system**:
 - Job creation and applications
 - Skill verification, bias detection, and matching agents
 - Live dashboards powered entirely by the database
-- No mock data, no hardcoded counts
+
 
 Every number you see in the UI is backed by real database state.
 
@@ -202,8 +202,7 @@ SELECT agent_name, status FROM agent_runs ORDER BY id DESC;
 
 ## 📌 Notes
 
-- Google OAuth is intentionally NOT implemented yet
-- All auth is local for demo & evaluation clarity
+- All auth is local for evaluation clarity
 - Designed to be easily extended for production auth later
 
 ---
