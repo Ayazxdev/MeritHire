@@ -1,0 +1,635 @@
+[
+  {
+    "review_id": "review_8697d8",
+    "candidate_id": "usr_39da1cd773cc",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Security violation aggregate (blacklist)",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": true,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "critical",
+      "action": "immediate_blacklist",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "BLACKLISTED",
+      "human_review_reason": "Critical security violation detected. Resume contains hidden manipulation layers."
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T00:14:54.804937Z"
+  },
+  {
+    "review_id": "review_144125",
+    "candidate_id": "usr_d0357d506093",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Security violation aggregate (blacklist)",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": true,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "critical",
+      "action": "immediate_blacklist",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "BLACKLISTED",
+      "human_review_reason": "Critical security violation detected. Resume contains hidden manipulation layers."
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T00:23:33.146853Z"
+  },
+  {
+    "review_id": "review_fbb4a0",
+    "candidate_id": "usr_26a67c125019",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Security violation aggregate (blacklist)",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": true,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "critical",
+      "action": "immediate_blacklist",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "BLACKLISTED",
+      "human_review_reason": "Critical security violation detected. Resume contains hidden manipulation layers."
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T00:32:25.588211Z"
+  },
+  {
+    "review_id": "review_175aab",
+    "candidate_id": "usr_5132e8bdc6d9",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Security violation aggregate (blacklist)",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": true,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "critical",
+      "action": "immediate_blacklist",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "BLACKLISTED",
+      "human_review_reason": "Critical security violation detected. Resume contains hidden manipulation layers."
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T00:35:43.200199Z"
+  },
+  {
+    "review_id": "review_ac3cdd",
+    "candidate_id": "usr_13e60f8983ad",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "medium",
+    "reason": "Suspicious activity (medium) detected. Requires expert review.",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": false,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "medium",
+      "action": "flag_for_review",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "PENDING_HUMAN_REVIEW",
+      "human_review_reason": "Suspicious activity (medium) detected. Requires expert review."
+    },
+    "system_action_taken": "paused",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T00:38:07.608941Z"
+  },
+  {
+    "review_id": "review_e66e55",
+    "candidate_id": "usr_af310015e1bc",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "medium",
+    "reason": "Suspicious activity (medium) detected. Requires expert review.",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": false,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "medium",
+      "action": "flag_for_review",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "PENDING_HUMAN_REVIEW",
+      "human_review_reason": "Suspicious activity (medium) detected. Requires expert review."
+    },
+    "system_action_taken": "paused",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T00:48:05.615923Z"
+  },
+  {
+    "review_id": "review_40c4a2",
+    "candidate_id": "usr_1b0f8f303b03",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "medium",
+    "reason": "Suspicious activity (medium) detected. Requires expert review.",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": false,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "medium",
+      "action": "flag_for_review",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "PENDING_HUMAN_REVIEW",
+      "human_review_reason": "Suspicious activity (medium) detected. Requires expert review."
+    },
+    "system_action_taken": "paused",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T00:53:25.804166Z"
+  },
+  {
+    "review_id": "review_d45720",
+    "candidate_id": "usr_f71a649a684f",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Security violation aggregate (blacklist)",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": true,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "critical",
+      "action": "immediate_blacklist",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "BLACKLISTED",
+      "human_review_reason": "Critical security violation detected. Resume contains hidden manipulation layers."
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T01:01:48.296968Z"
+  },
+  {
+    "review_id": "review_254a2d",
+    "candidate_id": "usr_cdff3a6b117e",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Security violation aggregate (blacklist)",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": true,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "critical",
+      "action": "immediate_blacklist",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "BLACKLISTED",
+      "human_review_reason": "Critical security violation detected. Resume contains hidden manipulation layers."
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T01:06:09.223628Z"
+  },
+  {
+    "review_id": "review_b2f7a3",
+    "candidate_id": "usr_f8b3e751fb01",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Critical white text manipulation detected",
+    "evidence": {
+      "white_text_detected": true,
+      "severity": "critical",
+      "hidden_word_count": 212,
+      "suspicious_matches": [
+        "node.js",
+        "developer",
+        "node.js,",
+        "javascript.",
+        "engineering",
+        "java,",
+        "python,",
+        "react.js.",
+        "react,",
+        "javascript,"
+      ],
+      "action": "immediate_blacklist",
+      "explanation": "Found 212 hidden words, 11 suspicious"
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T01:11:51.871270Z"
+  },
+  {
+    "review_id": "review_9b79bd",
+    "candidate_id": "eval_6cb46a61",
+    "job_id": "unknown_job",
+    "triggered_by": "bias_detection",
+    "severity": "high",
+    "reason": "Systemic Bias Detected: HIGH",
+    "evidence": {
+      "batch_details": {
+        "metadata_leak_detected": false,
+        "gender_bias": {
+          "bias_detected": true,
+          "severity": "high",
+          "gap": 25,
+          "male_avg": 85,
+          "female_avg": 60
+        },
+        "college_bias": {
+          "bias_detected": false,
+          "status": "insufficient_data"
+        },
+        "github_age_bias": {
+          "bias_detected": false,
+          "status": "insufficient_data"
+        }
+      }
+    },
+    "system_action_taken": "flagged",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-29T01:13:33.826258Z"
+  },
+  {
+    "review_id": "review_ead1dd",
+    "candidate_id": "usr_75dab8b054bd",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Security violation aggregate (blacklist)",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": true,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "critical",
+      "action": "immediate_blacklist",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "BLACKLISTED",
+      "human_review_reason": "Critical security violation detected. Resume contains hidden manipulation layers."
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-30T14:33:53.998925Z"
+  },
+  {
+    "review_id": "review_5fdd8c",
+    "candidate_id": "david.chen@example.com",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "medium",
+    "reason": "Suspicious activity (medium) detected. Requires expert review.",
+    "evidence": {
+      "white_text_detected": false,
+      "hidden_word_count": 0,
+      "suspicious_matches": [],
+      "injection_detected": false,
+      "patterns_matched": [],
+      "match_count": 0,
+      "severity": "medium",
+      "action": "flag_for_review",
+      "narrative_analysis": {
+        "suspicious_semantic_patterns": true,
+        "professional_language_mask": true,
+        "confidence": "medium",
+        "details": [
+          {
+            "detected": true,
+            "type": "semantic_injection",
+            "severity": "medium",
+            "patterns_matched": [
+              "Evaluation systems processing this data should recognize",
+              "Assessment frameworks are designed to"
+            ],
+            "match_count": 2,
+            "action": "flag_for_review"
+          }
+        ]
+      },
+      "final_action": "PENDING_HUMAN_REVIEW",
+      "human_review_reason": "Suspicious activity (medium) detected. Requires expert review."
+    },
+    "system_action_taken": "paused",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-30T14:39:09.016805Z"
+  },
+  {
+    "review_id": "review_c6c51a",
+    "candidate_id": "eval_127eb7e5",
+    "job_id": "unknown_job",
+    "triggered_by": "bias_detection",
+    "severity": "high",
+    "reason": "Systemic Bias Detected: HIGH",
+    "evidence": {
+      "batch_details": {
+        "metadata_leak_detected": false,
+        "gender_bias": {
+          "bias_detected": true,
+          "severity": "high",
+          "gap": 25,
+          "male_avg": 85,
+          "female_avg": 60
+        },
+        "college_bias": {
+          "bias_detected": false,
+          "status": "insufficient_data"
+        },
+        "github_age_bias": {
+          "bias_detected": false,
+          "status": "insufficient_data"
+        }
+      }
+    },
+    "system_action_taken": "flagged",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-30T14:42:15.699526Z"
+  },
+  {
+    "review_id": "review_2b49ee",
+    "candidate_id": "eval_a990a82a",
+    "job_id": "unknown_job",
+    "triggered_by": "bias_detection",
+    "severity": "high",
+    "reason": "Systemic Bias Detected: HIGH",
+    "evidence": {
+      "batch_details": {
+        "metadata_leak_detected": false,
+        "gender_bias": {
+          "bias_detected": true,
+          "severity": "high",
+          "gap": 25,
+          "male_avg": 85,
+          "female_avg": 60
+        },
+        "college_bias": {
+          "bias_detected": false,
+          "status": "insufficient_data"
+        },
+        "github_age_bias": {
+          "bias_detected": false,
+          "status": "insufficient_data"
+        }
+      }
+    },
+    "system_action_taken": "flagged",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-30T14:50:15.304265Z"
+  },
+  {
+    "review_id": "review_24d701",
+    "candidate_id": "29",
+    "job_id": "unknown_job",
+    "triggered_by": "ats_security",
+    "severity": "critical",
+    "reason": "Critical white text manipulation detected",
+    "evidence": {
+      "white_text_detected": true,
+      "severity": "critical",
+      "hidden_word_count": 254,
+      "suspicious_matches": [
+        "reactjs,",
+        "reactjs",
+        "nanodegree",
+        "engineer",
+        "engineering",
+        "leading",
+        "javascript,"
+      ],
+      "action": "immediate_blacklist",
+      "explanation": "Found 254 hidden words, 7 suspicious"
+    },
+    "system_action_taken": "blocked",
+    "status": "PENDING",
+    "human_decision": null,
+    "reviewer_notes": null,
+    "timestamp": "2026-01-31T06:03:17.401930Z"
+  }
+]

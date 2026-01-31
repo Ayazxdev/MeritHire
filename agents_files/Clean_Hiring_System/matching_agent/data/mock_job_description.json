@@ -1,0 +1,31 @@
+{
+    "job_id": "job_123_software_engineer",
+    "title": "Senior Python Backend Engineer",
+    "department": "Engineering",
+    "requirements": {
+        "core": [
+            "Python",
+            "SQL",
+            "System Design",
+            "Data Structures"
+        ],
+        "frameworks": [
+            "Django",
+            "FastAPI",
+            "Docker",
+            "AWS"
+        ],
+        "experience_min_years": 3,
+        "nice_to_have": [
+            "Kubernetes",
+            "React.js"
+        ]
+    },
+    "weights": {
+        "core": 0.5,
+        "frameworks": 0.3,
+        "experience": 0.2
+    },
+    "min_confidence_score": 60,
+    "description": "We are looking for a Senior Python Backend Engineer to build scalable APIs..."
+}

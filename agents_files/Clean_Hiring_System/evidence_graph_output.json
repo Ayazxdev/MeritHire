@@ -1,0 +1,996 @@
+{
+  "skills": {
+    "C++": {
+      "skill": "C++",
+      "sources": [
+        "github",
+        "leetcode"
+      ],
+      "evidence_types": [
+        "code_evidence",
+        "algorithmic_proof"
+      ],
+      "confidence": 0.55
+    },
+    "JavaScript": {
+      "skill": "JavaScript",
+      "sources": [
+        "github"
+      ],
+      "evidence_types": [
+        "code_evidence"
+      ],
+      "confidence": 0.45
+    },
+    "TypeScript": {
+      "skill": "TypeScript",
+      "sources": [
+        "github"
+      ],
+      "evidence_types": [
+        "code_evidence"
+      ],
+      "confidence": 0.45
+    },
+    "Python": {
+      "skill": "Python",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "AWS": {
+      "skill": "AWS",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "Docker": {
+      "skill": "Docker",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "C++17": {
+      "skill": "C++17",
+      "sources": [
+        "codeforces"
+      ],
+      "evidence_types": [
+        "algorithmic_proof"
+      ],
+      "confidence": 0.1
+    }
+  },
+  "experience": [
+    {
+      "company": null,
+      "role": "null",
+      "timeframe": "4 years",
+      "source": "ats"
+    }
+  ],
+  "projects": [],
+  "confidence_controls": {
+    "missing_signals": [],
+    "weak_signals": [
+      "C++17 (confidence: 0.10)"
+    ],
+    "conflict_flags": [
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'Python' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      },
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'Docker' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      }
+    ]
+  },
+  "signals": {
+    "github": {
+      "username": "Xtract01",
+      "analyzed_at": "2026-01-30T20:20:08.917901",
+      "profile": {
+        "username": "Xtract01",
+        "name": "Anirudh Singh",
+        "bio": null,
+        "company": null,
+        "location": "Delhi , India",
+        "email": null,
+        "blog": "",
+        "account_created": "2023-08-26T12:54:53Z",
+        "account_age_years": 2.4,
+        "account_age_days": 888,
+        "public_repos": 30,
+        "public_gists": 0,
+        "followers": 1,
+        "following": 2,
+        "days_since_update": 7,
+        "is_hireable": null,
+        "has_bio": false,
+        "has_company": false,
+        "has_blog": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/143269166?v=4",
+        "profile_url": "https://github.com/Xtract01"
+      },
+      "credibility_signal": {
+        "score": 55,
+        "flags": [
+          "empty_profile_many_repos"
+        ],
+        "account_age_years": 2.4,
+        "is_verified": false
+      },
+      "skill_signal": {
+        "primary_language": "C++",
+        "verified_languages": [
+          "C++",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "language_distribution": {
+          "C++": 42.3,
+          "JavaScript": 30.8,
+          "TypeScript": 18.3,
+          "CSS": 6.1,
+          "HTML": 1.6,
+          "Python": 0.7,
+          "EJS": 0.1
+        },
+        "original_repos": 27,
+        "avg_code_depth": 16.0,
+        "best_repositories": [
+          {
+            "repo_name": "movieBookingBackend",
+            "url": "https://github.com/Xtract01/movieBookingBackend",
+            "language": "JavaScript",
+            "description": null,
+            "best_repo_score": 64.0,
+            "category": "Primary Evidence",
+            "why_selected": [
+              "Primary contributor with strong ownership",
+              "Solo-built project",
+              "Multi-module architecture",
+              "Consistent development over time",
+              "Has project documentation"
+            ],
+            "disclaimers": [],
+            "signals": {
+              "ownership": 85,
+              "ownership_breakdown": {
+                "authorship": 35,
+                "commit_dominance": 35,
+                "originality": 15
+              },
+              "engineering_depth": 45,
+              "documentation": 50,
+              "maturity": "iterative",
+              "maturity_score": 75
+            },
+            "details": {
+              "size_kb": 30,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": true,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "total_commits": 14,
+                "author_commits": 14,
+                "commit_ratio": 1.0,
+                "days_span": 11,
+                "unique_commit_days": 11,
+                "first_commit": "2026-01-18T18:58:41+00:00",
+                "last_commit": "2026-01-29T20:41:27+00:00",
+                "is_iterative": true
+              }
+            }
+          },
+          {
+            "repo_name": "Leetcode-Solutions",
+            "url": "https://github.com/Xtract01/Leetcode-Solutions",
+            "language": "C++",
+            "description": null,
+            "best_repo_score": 47.6,
+            "category": "Supporting Evidence",
+            "why_selected": [
+              "Primary contributor with strong ownership",
+              "Solo-built project",
+              "Multi-module architecture",
+              "Has project documentation"
+            ],
+            "disclaimers": [],
+            "signals": {
+              "ownership": 77,
+              "ownership_breakdown": {
+                "authorship": 35,
+                "commit_dominance": 12,
+                "originality": 30
+              },
+              "engineering_depth": 35,
+              "documentation": 40,
+              "maturity": "unknown",
+              "maturity_score": 30
+            },
+            "details": {
+              "size_kb": 620,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": true,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "error": "No commits found",
+                "total_commits": 0
+              }
+            }
+          },
+          {
+            "repo_name": "CP-31",
+            "url": "https://github.com/Xtract01/CP-31",
+            "language": "C++",
+            "description": null,
+            "best_repo_score": 16.0,
+            "category": "Exploratory / Learning",
+            "why_selected": [
+              "Passed basic engineering criteria"
+            ],
+            "disclaimers": [
+              "Lower score - may be learning project or contribution"
+            ],
+            "signals": {
+              "ownership": 20,
+              "ownership_breakdown": {
+                "authorship": 0,
+                "commit_dominance": 0,
+                "originality": 20
+              },
+              "engineering_depth": 0,
+              "documentation": 20,
+              "maturity": "unknown",
+              "maturity_score": 30
+            },
+            "details": {
+              "size_kb": 48,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": false,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "error": "No commits found",
+                "total_commits": 0
+              }
+            }
+          },
+          {
+            "repo_name": "chatDPT",
+            "url": "https://github.com/Xtract01/chatDPT",
+            "language": "JavaScript",
+            "description": null,
+            "best_repo_score": 16.0,
+            "category": "Exploratory / Learning",
+            "why_selected": [
+              "Passed basic engineering criteria"
+            ],
+            "disclaimers": [
+              "Lower score - may be learning project or contribution"
+            ],
+            "signals": {
+              "ownership": 20,
+              "ownership_breakdown": {
+                "authorship": 0,
+                "commit_dominance": 0,
+                "originality": 20
+              },
+              "engineering_depth": 0,
+              "documentation": 20,
+              "maturity": "unknown",
+              "maturity_score": 30
+            },
+            "details": {
+              "size_kb": 37,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": false,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "error": "No commits found",
+                "total_commits": 0
+              }
+            }
+          },
+          {
+            "repo_name": "VidlyPro",
+            "url": "https://github.com/Xtract01/VidlyPro",
+            "language": "TypeScript",
+            "description": null,
+            "best_repo_score": 16.0,
+            "category": "Exploratory / Learning",
+            "why_selected": [
+              "Passed basic engineering criteria"
+            ],
+            "disclaimers": [
+              "Lower score - may be learning project or contribution"
+            ],
+            "signals": {
+              "ownership": 20,
+              "ownership_breakdown": {
+                "authorship": 0,
+                "commit_dominance": 0,
+                "originality": 20
+              },
+              "engineering_depth": 0,
+              "documentation": 20,
+              "maturity": "unknown",
+              "maturity_score": 30
+            },
+            "details": {
+              "size_kb": 143,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": false,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "error": "No commits found",
+                "total_commits": 0
+              }
+            }
+          }
+        ]
+      },
+      "consistency_signal": {
+        "score": 55,
+        "commits_last_30_days": 109,
+        "commits_last_year": 191,
+        "active_weeks_ratio": 0.46,
+        "max_gap_days": 300,
+        "patterns": [
+          "long_inactivity_gaps"
+        ],
+        "days_since_last_commit": 0
+      },
+      "summary": {
+        "credibility_verified": true,
+        "primary_skill": "C++",
+        "is_consistent": true,
+        "is_active": true,
+        "red_flags": [
+          "empty_profile_many_repos",
+          "long_inactivity_gaps"
+        ]
+      },
+      "raw": {
+        "repos": [
+          {
+            "name": "movieBookingBackend",
+            "url": "https://github.com/Xtract01/movieBookingBackend",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2026-01-18T18:58:01Z",
+            "updated_at": "2026-01-29T20:41:39Z",
+            "pushed_at": "2026-01-29T20:41:35Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 30,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Leetcode-Solutions",
+            "url": "https://github.com/Xtract01/Leetcode-Solutions",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2025-08-26T14:58:31Z",
+            "updated_at": "2026-01-28T20:43:27Z",
+            "pushed_at": "2026-01-28T20:43:25Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 620,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "CP-31",
+            "url": "https://github.com/Xtract01/CP-31",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2025-10-04T20:43:15Z",
+            "updated_at": "2026-01-27T20:53:21Z",
+            "pushed_at": "2026-01-27T20:53:17Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 48,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "chatDPT",
+            "url": "https://github.com/Xtract01/chatDPT",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2026-01-25T09:14:14Z",
+            "updated_at": "2026-01-26T12:08:41Z",
+            "pushed_at": "2026-01-26T12:08:37Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 37,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "VidlyPro",
+            "url": "https://github.com/Xtract01/VidlyPro",
+            "description": null,
+            "language": "TypeScript",
+            "is_fork": false,
+            "created_at": "2026-01-13T20:34:48Z",
+            "updated_at": "2026-01-16T20:38:42Z",
+            "pushed_at": "2026-01-16T20:38:38Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 143,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "CSES",
+            "url": "https://github.com/Xtract01/CSES",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2025-11-28T21:43:32Z",
+            "updated_at": "2025-11-29T21:18:26Z",
+            "pushed_at": "2025-11-29T21:18:14Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 4,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "devflow",
+            "url": "https://github.com/Xtract01/devflow",
+            "description": null,
+            "language": "TypeScript",
+            "is_fork": false,
+            "created_at": "2025-11-16T10:49:26Z",
+            "updated_at": "2025-11-24T21:15:00Z",
+            "pushed_at": "2025-11-24T21:14:56Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 3280,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "DSA",
+            "url": "https://github.com/Xtract01/DSA",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2025-07-19T16:48:32Z",
+            "updated_at": "2025-11-16T16:01:43Z",
+            "pushed_at": "2025-11-16T16:01:40Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 16986,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "English-Improvement-system",
+            "url": "https://github.com/Xtract01/English-Improvement-system",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-11-14T16:42:43Z",
+            "updated_at": "2025-11-14T16:48:43Z",
+            "pushed_at": "2025-11-14T16:48:40Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 25,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "chatApp",
+            "url": "https://github.com/Xtract01/chatApp",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-10-02T19:30:56Z",
+            "updated_at": "2025-11-02T18:17:31Z",
+            "pushed_at": "2025-11-02T18:17:27Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 4718,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Xtract01",
+            "url": "https://github.com/Xtract01/Xtract01",
+            "description": "Hello world this is my profile",
+            "language": null,
+            "is_fork": false,
+            "created_at": "2025-07-17T12:06:38Z",
+            "updated_at": "2025-10-06T20:40:12Z",
+            "pushed_at": "2025-10-06T20:40:09Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 22,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "OpenSauce",
+            "url": "https://github.com/Xtract01/OpenSauce",
+            "description": "Star the repo and add your DSA codes here, in any language!!",
+            "language": "Java",
+            "is_fork": true,
+            "created_at": "2025-10-05T08:47:57Z",
+            "updated_at": "2025-10-05T09:52:09Z",
+            "pushed_at": "2025-10-05T09:52:05Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 93,
+            "has_issues": false,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "mern-expense-tracker",
+            "url": "https://github.com/Xtract01/mern-expense-tracker",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": true,
+            "created_at": "2025-10-04T15:16:49Z",
+            "updated_at": "2025-10-04T15:33:00Z",
+            "pushed_at": "2025-10-04T15:32:56Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 73,
+            "has_issues": false,
+            "has_wiki": false,
+            "topics": [],
+            "default_branch": "master"
+          },
+          {
+            "name": "Scratch-Backend",
+            "url": "https://github.com/Xtract01/Scratch-Backend",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-09-08T19:25:20Z",
+            "updated_at": "2025-09-15T20:03:42Z",
+            "pushed_at": "2025-09-15T20:03:38Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 20,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Facial-Recognition-Attendance",
+            "url": "https://github.com/Xtract01/Facial-Recognition-Attendance",
+            "description": null,
+            "language": "Python",
+            "is_fork": false,
+            "created_at": "2025-09-11T16:00:35Z",
+            "updated_at": "2025-09-11T16:12:01Z",
+            "pushed_at": "2025-09-11T16:11:58Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 242,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "urlShortner",
+            "url": "https://github.com/Xtract01/urlShortner",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-08-15T20:54:44Z",
+            "updated_at": "2025-09-03T21:08:32Z",
+            "pushed_at": "2025-09-03T21:08:29Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 15983,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "movie-app",
+            "url": "https://github.com/Xtract01/movie-app",
+            "description": null,
+            "language": "TypeScript",
+            "is_fork": false,
+            "created_at": "2025-07-17T05:06:53Z",
+            "updated_at": "2025-07-18T15:01:41Z",
+            "pushed_at": "2025-07-18T14:48:31Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 468,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "master"
+          },
+          {
+            "name": "movie_search",
+            "url": "https://github.com/Xtract01/movie_search",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-04-16T20:17:35Z",
+            "updated_at": "2025-07-04T09:43:07Z",
+            "pushed_at": "2025-04-23T20:30:43Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 184,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "real-time-tracker",
+            "url": "https://github.com/Xtract01/real-time-tracker",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-06-28T18:52:15Z",
+            "updated_at": "2025-06-28T19:18:32Z",
+            "pushed_at": "2025-06-28T18:53:40Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 1978,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Weather-app",
+            "url": "https://github.com/Xtract01/Weather-app",
+            "description": null,
+            "language": "TypeScript",
+            "is_fork": false,
+            "created_at": "2025-04-23T21:46:49Z",
+            "updated_at": "2025-04-23T22:14:10Z",
+            "pushed_at": "2025-04-23T22:14:02Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 173,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "gmail_clone",
+            "url": "https://github.com/Xtract01/gmail_clone",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-04-16T20:10:39Z",
+            "updated_at": "2025-04-16T20:13:00Z",
+            "pushed_at": "2025-04-16T20:11:34Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 38,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Focus-Timer",
+            "url": "https://github.com/Xtract01/Focus-Timer",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-03-26T20:39:44Z",
+            "updated_at": "2025-03-26T20:47:26Z",
+            "pushed_at": "2025-03-26T20:47:22Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 59,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "ml-road",
+            "url": "https://github.com/Xtract01/ml-road",
+            "description": "Machine Learning Resources, Practice and Research",
+            "language": null,
+            "is_fork": true,
+            "created_at": "2025-01-29T18:06:03Z",
+            "updated_at": "2025-01-29T18:06:03Z",
+            "pushed_at": "2024-06-26T12:51:47Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 327454,
+            "has_issues": false,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "master"
+          },
+          {
+            "name": "React-Quiz",
+            "url": "https://github.com/Xtract01/React-Quiz",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2024-12-25T18:14:39Z",
+            "updated_at": "2024-12-25T18:19:34Z",
+            "pushed_at": "2024-12-25T18:19:30Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 181,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "water-intake",
+            "url": "https://github.com/Xtract01/water-intake",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2024-09-16T02:17:43Z",
+            "updated_at": "2024-09-16T02:19:39Z",
+            "pushed_at": "2024-09-16T02:19:36Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 2,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "TECH-Project",
+            "url": "https://github.com/Xtract01/TECH-Project",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2024-05-19T18:54:27Z",
+            "updated_at": "2024-05-19T19:00:29Z",
+            "pushed_at": "2024-05-19T19:00:26Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 305,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Quiz-app",
+            "url": "https://github.com/Xtract01/Quiz-app",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2024-03-26T07:42:26Z",
+            "updated_at": "2024-03-26T07:42:46Z",
+            "pushed_at": "2024-03-26T07:42:42Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 2,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Light-Dark-Mode",
+            "url": "https://github.com/Xtract01/Light-Dark-Mode",
+            "description": null,
+            "language": "CSS",
+            "is_fork": false,
+            "created_at": "2024-02-23T21:31:46Z",
+            "updated_at": "2024-02-23T21:36:47Z",
+            "pushed_at": "2024-02-23T21:38:03Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 21,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Quote-Generator",
+            "url": "https://github.com/Xtract01/Quote-Generator",
+            "description": null,
+            "language": "CSS",
+            "is_fork": false,
+            "created_at": "2024-02-22T20:06:10Z",
+            "updated_at": "2024-02-22T20:06:46Z",
+            "pushed_at": "2024-02-22T20:06:43Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 2,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Guess-the-number",
+            "url": "https://github.com/Xtract01/Guess-the-number",
+            "description": null,
+            "language": "CSS",
+            "is_fork": false,
+            "created_at": "2024-02-20T19:10:37Z",
+            "updated_at": "2024-02-20T19:19:23Z",
+            "pushed_at": "2024-02-20T19:19:18Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 1,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          }
+        ],
+        "commit_activity": {
+          "total_commits_analyzed": 203,
+          "commits_last_30_days": 109,
+          "commits_last_90_days": 160,
+          "commits_last_year": 191,
+          "max_gap_days": 300,
+          "avg_gap_days": 3.1,
+          "weekend_commits_pct": 32.0,
+          "weekday_commits_pct": 68.0,
+          "active_weeks_ratio": 0.46,
+          "weeks_with_commits": 24,
+          "patterns": [
+            "long_inactivity_gaps"
+          ],
+          "first_commit": "2024-03-23T18:14:10+00:00",
+          "last_commit": "2026-01-29T20:41:27+00:00",
+          "days_since_last_commit": 0
+        }
+      }
+    },
+    "ats_resume": {
+      "source": "ats_resume_pdf",
+      "extraction_method": "agentic_narrative_validation",
+      "timestamp": "2026-01-30T20:19:09Z",
+      "agent_metadata": {
+        "agent": "ats_evidence_agent",
+        "version": "2026.2",
+        "framework": "antigravity-compatible",
+        "extraction_time_seconds": 16.06,
+        "deep_check_enabled": false
+      },
+      "identity": {
+        "name": "Lisa Anderson",
+        "public_links": []
+      },
+      "experience": [
+        {
+          "company": null,
+          "role": "null",
+          "timeframe": "4 years",
+          "claims": []
+        }
+      ],
+      "projects": [],
+      "skills": [
+        {
+          "skill": "Python"
+        },
+        {
+          "skill": "AWS"
+        },
+        {
+          "skill": "Docker"
+        }
+      ]
+    },
+    "linkedin": {
+      "source": "linkedin_pdf",
+      "error": "file_not_found",
+      "identity": {},
+      "experience": {
+        "total_years": 0,
+        "consistency": "unknown",
+        "timeline": []
+      },
+      "skills": {
+        "claimed": []
+      },
+      "education": []
+    },
+    "leetcode": {
+      "rank": "133830",
+      "level": "N/A",
+      "contest_rating": 1633,
+      "problems_solved": 568,
+      "top_skills": [
+        "Dynamic Programming (Adv)",
+        "Backtracking (Adv)",
+        "Divide and Conquer (Adv)",
+        "Hash Table",
+        "Math",
+        "Depth-First Search"
+      ],
+      "top_language": "C++",
+      "badges": 15
+    },
+    "codeforces": {
+      "rank": "Newbie",
+      "rating": 916,
+      "max_rating": 916,
+      "problems_solved": 61,
+      "top_skills": [
+        "math",
+        "greedy",
+        "implementation",
+        "brute force",
+        "constructive algorithms"
+      ],
+      "top_language": "C++17 (GCC 7-32)",
+      "organization": "Inderprastha Engineering College, Ghaziabad",
+      "contribution": 0
+    }
+  },
+  "evaluation_id": "eval_a990a82a"
+}

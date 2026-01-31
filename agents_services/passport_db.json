@@ -1,0 +1,422 @@
+{
+  "10": {
+    "credential_id": 10,
+    "record": {
+      "hash": "c4f90fc2946517722492aa351a14b7d810711d6a35108247d8e5a746a4f095b1",
+      "signature": "0x0f579c375ec13fdf5e1cb9516a6ad57ddbc0953b86dcb1fb953fa8010882f6b3137144346d2d097c82c936a5e59e21a757f827d5ca5b4b46cff1c7a54b66bd05",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 10,
+      "anon_id": null,
+      "issued_at": "2026-01-30T21:04:47.267569",
+      "expires_at": "2027-01-30T21:04:47.267569",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "ats_verified": true,
+        "github_verified": true,
+        "leetcode_verified": false,
+        "codeforces_verified": false,
+        "linkedin_verified": false,
+        "bias_checked": true
+      }
+    }
+  },
+  "14": {
+    "credential_id": 14,
+    "record": {
+      "hash": "03b93dac15b355b3039912e32863dcfb5e96bd4b8c1719ccf45e14cb52693770",
+      "signature": "0xdb8cdc278b18b02132cab3d105bdd90d9835ef4e5258aae91d1cd9f882fe74e3b76b6ca79b3307e5c4d725dd3bc76895b4cff68d22dfd8bb208fcf75aa2ec200",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 14,
+      "anon_id": "ANON-8F0DD9895647",
+      "issued_at": "2026-01-31T01:13:06.707347",
+      "expires_at": "2027-01-31T01:13:06.707347",
+      "match_score": 50,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "ats_verified": true,
+        "github_verified": true,
+        "leetcode_verified": false,
+        "codeforces_verified": false,
+        "linkedin_verified": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "No module named 'agents_services'"
+      }
+    }
+  },
+  "15": {
+    "credential_id": 15,
+    "record": {
+      "hash": "146ac27cbe5ef898b3b14acce4d54c580664c1bf790368d39077d1044c297262",
+      "signature": "0xc5f679c6dbe581006050ec0c3e07db52b33690406941dd069847dcce37357a24aeee56372042842f632f034b35dd3aea0eef01af6167c33b7d955328a16fb803",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 15,
+      "anon_id": "ANON-91E173E8920F",
+      "issued_at": "2026-01-31T01:59:04.680740",
+      "expires_at": "2027-01-31T01:59:04.680740",
+      "match_score": 50,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "ats_verified": true,
+        "github_verified": true,
+        "leetcode_verified": false,
+        "codeforces_verified": false,
+        "linkedin_verified": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "No module named 'agents_services'"
+      }
+    }
+  },
+  "16": {
+    "credential_id": 16,
+    "record": {
+      "hash": "69f119353dcd01c3efeb5deeded90060a98d48df42bbe15579f70a0bc2847346",
+      "signature": "0xdec0c3cd8f0ffa89d55ac78656cd6f48a1206174604c85f1ef1b5bfc4c434737984e4b418c0e87318ab2d4a5512a89284b42c6ff73da992db5f59b3078f6c109",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 16,
+      "anon_id": "ANON-91E173E8920F",
+      "issued_at": "2026-01-31T02:05:06.882042",
+      "expires_at": "2027-01-31T02:05:06.882042",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "ats_verified": true,
+        "github_verified": true,
+        "leetcode_verified": false,
+        "codeforces_verified": false,
+        "linkedin_verified": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "Plan structure is required. You must provide an explicit plan with the MCP and actions you want to execute.\n\nExample:\n  plan = client.capture_plan(\n      llm='gpt-4',\n      prompt='Your task description',\n      plan={\n          'goal': 'Your task description',\n          'steps': [\n              {\n                  'action': 'your_tool_name',\n                  'mcp': 'your-mcp-name',\n                  'params': {'param1': 'value1'}\n              }\n          ]\n      }\n  )\n\nNote: Use the MCP name and tool names from your onboarded MCPs on the ArmorIQ platform."
+      }
+    }
+  },
+  "17": {
+    "credential_id": 17,
+    "record": {
+      "hash": "33ee260036d8cd06d1fb5c0ad6bdba3024d2db9289a8243a210d1272af584397",
+      "signature": "0x59e6215d7b2e0635cc894dac0238a0c7034ad007ee103797c0ddaf7bc5f9040859830470393183f6207717070196f9423c356e6dea24e4f7955b7252e261be0a",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 17,
+      "anon_id": "ANON-91E173E8920F",
+      "issued_at": "2026-01-31T02:06:18.735647",
+      "expires_at": "2027-01-31T02:06:18.735647",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "ats_verified": true,
+        "github_verified": true,
+        "leetcode_verified": false,
+        "codeforces_verified": false,
+        "linkedin_verified": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "Plan structure is required. You must provide an explicit plan with the MCP and actions you want to execute.\n\nExample:\n  plan = client.capture_plan(\n      llm='gpt-4',\n      prompt='Your task description',\n      plan={\n          'goal': 'Your task description',\n          'steps': [\n              {\n                  'action': 'your_tool_name',\n                  'mcp': 'your-mcp-name',\n                  'params': {'param1': 'value1'}\n              }\n          ]\n      }\n  )\n\nNote: Use the MCP name and tool names from your onboarded MCPs on the ArmorIQ platform."
+      }
+    }
+  },
+  "18": {
+    "credential_id": 18,
+    "record": {
+      "hash": "1b5e810cc50ea0a88a8089dd9717ae796f3da0d824017c5713ea9b66d3458238",
+      "signature": "0xf82fe0cc95d8534205955c862158a1672900f1d401ab036ca7b8cdd2492b480cda4617935e7b2897a1edd51c068da7ff831f8395ef1091c93e6b64081566cb03",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 18,
+      "anon_id": "ANON-C16D7D3DB43F",
+      "issued_at": "2026-01-31T02:13:06.038666",
+      "expires_at": "2027-01-31T02:13:06.038666",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "ats_verified": true,
+        "github_verified": true,
+        "leetcode_verified": false,
+        "codeforces_verified": false,
+        "linkedin_verified": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "Plan structure is required. You must provide an explicit plan with the MCP and actions you want to execute.\n\nExample:\n  plan = client.capture_plan(\n      llm='gpt-4',\n      prompt='Your task description',\n      plan={\n          'goal': 'Your task description',\n          'steps': [\n              {\n                  'action': 'your_tool_name',\n                  'mcp': 'your-mcp-name',\n                  'params': {'param1': 'value1'}\n              }\n          ]\n      }\n  )\n\nNote: Use the MCP name and tool names from your onboarded MCPs on the ArmorIQ platform."
+      }
+    }
+  },
+  "19": {
+    "credential_id": 19,
+    "record": {
+      "hash": "712a27b3b59e175fe88680d76372a74a37acdc59fe67c8c937bf0b70d2edee80",
+      "signature": "0x753db6bf631be087068f1cb72cea05fb80b8c987b64e3ef1dec90d42700fb74487fa3f93a5914e4e7ed09a4cf236740a13465235f8715c9415976ea9e5455502",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 19,
+      "anon_id": "ANON-1FCEA2335592",
+      "issued_at": "2026-01-31T02:20:21.984148+00:00",
+      "expires_at": "2027-01-31T02:20:21.984148+00:00",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "signal_count": 0,
+        "test_required": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "'IntentToken' object is not subscriptable"
+      }
+    }
+  },
+  "20": {
+    "credential_id": 20,
+    "record": {
+      "hash": "f2ea37d8adbf39fae63aafa7ff1fbc05e0dadee51b7951b8b02271f08dace0e3",
+      "signature": "0x7b9d517a0f8ca0922adcd7a9f83de663eb59af81f62ad53a95d373872d093df571d4bc10c2e57eb91da190db927f5207c4ce4d93ed82da80e0450fce00ee4608",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 20,
+      "anon_id": "ANON-1558ED9C8904",
+      "issued_at": "2026-01-31T02:31:36.625312+00:00",
+      "expires_at": "2027-01-31T02:31:36.625312+00:00",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "signal_count": 0,
+        "test_required": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "'IntentToken' object has no attribute 'get'"
+      }
+    }
+  },
+  "23": {
+    "credential_id": 23,
+    "record": {
+      "hash": "a47290da5675e71d214a75aff2acf1de0c440676e179a8bf973771ae63f0af92",
+      "signature": "0x591606e335b92d4be37492c8244491dde7d7028585e7a4e2884396a210e6bdee7b8eaf8ba15c03ea665d3e36feaeabc5e91ff17f3523b823458fffc424e13e00",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 23,
+      "anon_id": "ANON-1FCEA2335592",
+      "issued_at": "2026-01-31T02:47:03.663165+00:00",
+      "expires_at": "2027-01-31T02:47:03.663165+00:00",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "signal_count": 0,
+        "test_required": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "MCP invocation failed: The read operation timed out"
+      }
+    }
+  },
+  "24": {
+    "credential_id": 24,
+    "record": {
+      "hash": "7e55ffa84db0859e91b60c4251da5477b1f65af62d38c4868d0f4d058088c007",
+      "signature": "0xce3a0a0ac64d9eb6c6682ab56ee2794e390f4612c4c17bd7cf6d05f5e3165a2da1cb270ac76e98fc511d38963e2484b19e2d357dfaeff2408e6bc0f169833b05",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 24,
+      "anon_id": "ANON-1FCEA2335592",
+      "issued_at": "2026-01-31T03:37:35.881457+00:00",
+      "expires_at": "2027-01-31T03:37:35.881457+00:00",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "signal_count": 0,
+        "test_required": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "'dict' object has no attribute 'plan'"
+      }
+    }
+  },
+  "26": {
+    "credential_id": 26,
+    "record": {
+      "hash": "f688410942c2882ab3f7898faa73083d0365028148d0f41d039c9ea2252e2c59",
+      "signature": "0xc359169c6ff5b06110fcd905a2ae5cb103e2f9209118fcba5e1ff1ff18d7f3ce61d9fbfe004fdf366e9b8456f8d5da3e1d54bfdbb0e295b3345cca143a4a9506",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 26,
+      "anon_id": "ANON-1FCEA2335592",
+      "issued_at": "2026-01-31T04:38:25.751123+00:00",
+      "expires_at": "2027-01-31T04:38:25.751123+00:00",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "signal_count": 0,
+        "test_required": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "'NoneType' object has no attribute 'is_expired'"
+      }
+    }
+  },
+  "27": {
+    "credential_id": 27,
+    "record": {
+      "hash": "6904c9f99293ad69327d7fbc6b96b8ee35935f372d1a9aee507d45e4f2e615ee",
+      "signature": "0xa94847c094f128d817c88788b11be948a652a2fcc6de63995ba91ff74a8d7d5d2f4e629da109ab8ec8ff72d9a393abec154f7315f403a40c3cc123f71afa300d",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 27,
+      "anon_id": "ANON-1FCEA2335592",
+      "issued_at": "2026-01-31T04:43:06.399430+00:00",
+      "expires_at": "2027-01-31T04:43:06.399430+00:00",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "signal_count": 0,
+        "test_required": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "'NoneType' object has no attribute 'is_expired'"
+      }
+    }
+  },
+  "28": {
+    "credential_id": 28,
+    "record": {
+      "hash": "4039b73c340811749dfb9afafb3b4cd817249036567a531cbe0753c7884c75f0",
+      "signature": "0x0accb87e167d99f45ed7d587b69730934296df6f97d200ae68d793add0a8ec40db7515e18eb4a88e402abef123a2fc8a1cf87aa1f818383b5d6d135a51c98b0a",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 28,
+      "anon_id": "ANON-1FCEA2335592",
+      "issued_at": "2026-01-31T04:59:20.543143+00:00",
+      "expires_at": "2027-01-31T04:59:20.543143+00:00",
+      "match_score": 80,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "signal_count": 0,
+        "test_required": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "'NoneType' object has no attribute 'is_expired'"
+      }
+    }
+  },
+  "29": {
+    "credential_id": 29,
+    "record": {
+      "hash": "b0e52a1a0b14d694295757eda2cb668ce9db6426c9bfa2abec10d521ca1c901d",
+      "signature": "0x03c7716487596079e996dc6b3f5504923ebc1759cf423fa8ab13b334ce9024bca880c2e7f990d871788c8f92526d99cf7ab7f988a087e6557a8885a28dea7603",
+      "public_key": "0xd58e74948daa608cf36d083a5574f2719858a85c8ef93a3abdacce4c2730d320"
+    },
+    "payload": {
+      "type": "SkillPassport",
+      "version": "1.0",
+      "application_id": 29,
+      "anon_id": "ANON-7CA33C931689",
+      "issued_at": "2026-01-31T06:05:20.408182+00:00",
+      "expires_at": "2027-01-31T06:05:20.408182+00:00",
+      "match_score": 30,
+      "verified_skills": [],
+      "confidence": 0,
+      "signal_strength": "weak",
+      "evidence": {
+        "signal_count": 0,
+        "test_required": false,
+        "bias_checked": true
+      },
+      "compliance_proof": {
+        "audit_status": "SKIPPED_ERROR",
+        "error": "'NoneType' object has no attribute 'is_expired'"
+      }
+    }
+  }
+}

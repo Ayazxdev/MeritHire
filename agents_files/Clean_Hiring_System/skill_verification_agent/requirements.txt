@@ -1,0 +1,19 @@
+# Core Agent Framework
+langchain-openai>=0.2.0
+langchain-ollama>=0.2.0
+pydantic>=2.9.0
+python-dotenv==1.0.0
+
+# Web Scraping & Browser Automation
+selenium==4.15.0
+beautifulsoup4==4.12.0
+requests==2.31.0
+lxml>=4.9.0
+html5lib>=1.1
+
+# Document Processing (PDFs)
+pypdf>=3.0.0
+
+# Optional / Dev
+# redis==5.0.0  # Uncomment if using Redis caching
+# webdriver-manager==4.0.1 # Uncomment if Selenium Manager fails

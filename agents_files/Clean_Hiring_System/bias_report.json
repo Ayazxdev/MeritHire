@@ -1,0 +1,38 @@
+{
+  "bias_detected": true,
+  "severity": "high",
+  "checks_performed": [
+    "metadata_leak",
+    "quick_flags",
+    "gender_bias",
+    "college_bias",
+    "github_age_bias"
+  ],
+  "details": {
+    "metadata_leak_detected": false,
+    "gender_bias": {
+      "bias_detected": true,
+      "severity": "high",
+      "gap": 25,
+      "male_avg": 85,
+      "female_avg": 60
+    },
+    "college_bias": {
+      "bias_detected": false,
+      "status": "insufficient_data"
+    },
+    "github_age_bias": {
+      "bias_detected": false,
+      "status": "insufficient_data"
+    }
+  },
+  "action": "human_review",
+  "bias_scope": "systemic",
+  "candidate_impact": "none",
+  "enforcement": "log_only",
+  "data_access": {
+    "pii_visibility": "restricted",
+    "source": "secure_backend_join"
+  },
+  "timestamp": "2026-01-30T20:20:15.304265"
+}

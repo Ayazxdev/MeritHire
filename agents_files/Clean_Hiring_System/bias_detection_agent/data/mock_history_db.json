@@ -1,0 +1,3542 @@
+[
+  {
+    "candidate_id": "anon_1000",
+    "verified_skills": [
+      "C++",
+      "JavaScript",
+      "Machine Learning"
+    ],
+    "skill_confidence": 78,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "IIT Bombay",
+      "age": 27,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 83,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.8,
+        "commits_analyzed": 278,
+        "project_quality": 80
+      },
+      "leetcode": {
+        "problems_solved": 201,
+        "contest_rating": 1715
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1001",
+    "verified_skills": [
+      "React",
+      "Python",
+      "C++"
+    ],
+    "skill_confidence": 80,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Mumbai University",
+      "age": 30,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 77,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.3,
+        "commits_analyzed": 77,
+        "project_quality": 83
+      },
+      "leetcode": {
+        "problems_solved": 157,
+        "contest_rating": 1978
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1002",
+    "verified_skills": [
+      "React",
+      "Java",
+      "Machine Learning",
+      "Python",
+      "JavaScript",
+      "Data Structures",
+      "Node.js"
+    ],
+    "skill_confidence": 66,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "IIIT Hyderabad",
+      "age": 26,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 70,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.3,
+        "commits_analyzed": 384,
+        "project_quality": 48
+      },
+      "leetcode": {
+        "problems_solved": 18,
+        "contest_rating": 1372
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1003",
+    "verified_skills": [
+      "React",
+      "Machine Learning",
+      "Python",
+      "C++"
+    ],
+    "skill_confidence": 76,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "SRM",
+      "age": 26,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 73,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.2,
+        "commits_analyzed": 483,
+        "project_quality": 48
+      },
+      "leetcode": {
+        "problems_solved": 223,
+        "contest_rating": 1203
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1004",
+    "verified_skills": [
+      "C++",
+      "Data Structures",
+      "JavaScript",
+      "Python",
+      "Node.js",
+      "React"
+    ],
+    "skill_confidence": 60,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "VIT",
+      "age": 23,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 60,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.7,
+        "commits_analyzed": 353,
+        "project_quality": 54
+      },
+      "leetcode": {
+        "problems_solved": 255,
+        "contest_rating": 1445
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1005",
+    "verified_skills": [
+      "Python",
+      "Node.js",
+      "React",
+      "Java",
+      "Data Structures",
+      "JavaScript",
+      "Machine Learning"
+    ],
+    "skill_confidence": 72,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "BITS Pilani",
+      "age": 27,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 74,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.8,
+        "commits_analyzed": 380,
+        "project_quality": 59
+      },
+      "leetcode": {
+        "problems_solved": 47,
+        "contest_rating": 1299
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1006",
+    "verified_skills": [
+      "Python",
+      "Machine Learning",
+      "C++"
+    ],
+    "skill_confidence": 89,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "IIIT Hyderabad",
+      "age": 27,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 90,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.5,
+        "commits_analyzed": 60,
+        "project_quality": 72
+      },
+      "leetcode": {
+        "problems_solved": 224,
+        "contest_rating": 1587
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1007",
+    "verified_skills": [
+      "Java",
+      "Data Structures",
+      "Node.js"
+    ],
+    "skill_confidence": 56,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "VIT",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 61,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.3,
+        "commits_analyzed": 86,
+        "project_quality": 59
+      },
+      "leetcode": {
+        "problems_solved": 105,
+        "contest_rating": 1856
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1008",
+    "verified_skills": [
+      "Machine Learning",
+      "Node.js",
+      "C++",
+      "JavaScript",
+      "Python",
+      "Data Structures"
+    ],
+    "skill_confidence": 78,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 22,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 77,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.4,
+        "commits_analyzed": 464,
+        "project_quality": 50
+      },
+      "leetcode": {
+        "problems_solved": 26,
+        "contest_rating": 1335
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1009",
+    "verified_skills": [
+      "Node.js",
+      "Machine Learning",
+      "Java",
+      "Data Structures",
+      "React"
+    ],
+    "skill_confidence": 75,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Manipal",
+      "age": 25,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 74,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.8,
+        "commits_analyzed": 452,
+        "project_quality": 69
+      },
+      "leetcode": {
+        "problems_solved": 106,
+        "contest_rating": 1919
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1010",
+    "verified_skills": [
+      "C++",
+      "Data Structures",
+      "Java",
+      "Python",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Machine Learning"
+    ],
+    "skill_confidence": 75,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 75,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.9,
+        "commits_analyzed": 131,
+        "project_quality": 71
+      },
+      "leetcode": {
+        "problems_solved": 59,
+        "contest_rating": 1999
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1011",
+    "verified_skills": [
+      "Python",
+      "Java",
+      "Machine Learning",
+      "JavaScript",
+      "Data Structures"
+    ],
+    "skill_confidence": 74,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 29,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 77,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.6,
+        "commits_analyzed": 374,
+        "project_quality": 82
+      },
+      "leetcode": {
+        "problems_solved": 249,
+        "contest_rating": 1503
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1012",
+    "verified_skills": [
+      "Java",
+      "C++",
+      "Python",
+      "Machine Learning"
+    ],
+    "skill_confidence": 65,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 29,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 68,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.9,
+        "commits_analyzed": 131,
+        "project_quality": 86
+      },
+      "leetcode": {
+        "problems_solved": 225,
+        "contest_rating": 1378
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1013",
+    "verified_skills": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Machine Learning",
+      "Data Structures",
+      "Java"
+    ],
+    "skill_confidence": 71,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Anna University",
+      "age": 26,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 76,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.1,
+        "commits_analyzed": 411,
+        "project_quality": 83
+      },
+      "leetcode": {
+        "problems_solved": 70,
+        "contest_rating": 1265
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1014",
+    "verified_skills": [
+      "Java",
+      "JavaScript",
+      "React"
+    ],
+    "skill_confidence": 65,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "IIIT Hyderabad",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 63,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.2,
+        "commits_analyzed": 382,
+        "project_quality": 44
+      },
+      "leetcode": {
+        "problems_solved": 126,
+        "contest_rating": 1490
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1015",
+    "verified_skills": [
+      "JavaScript",
+      "C++",
+      "Java",
+      "Python",
+      "Data Structures"
+    ],
+    "skill_confidence": 64,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "NIT Trichy",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 10
+    },
+    "evidence": {
+      "portfolio_score": 60,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 0.5,
+        "commits_analyzed": 262,
+        "project_quality": 70
+      },
+      "leetcode": {
+        "problems_solved": 209,
+        "contest_rating": 1365
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1016",
+    "verified_skills": [
+      "Java",
+      "Python",
+      "Machine Learning",
+      "React",
+      "JavaScript",
+      "Node.js"
+    ],
+    "skill_confidence": 62,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "BITS Pilani",
+      "age": 27,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 66,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.9,
+        "commits_analyzed": 220,
+        "project_quality": 76
+      },
+      "leetcode": {
+        "problems_solved": 95,
+        "contest_rating": 1825
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1017",
+    "verified_skills": [
+      "Machine Learning",
+      "Node.js",
+      "Python",
+      "Java",
+      "Data Structures"
+    ],
+    "skill_confidence": 56,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 33,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 59,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.5,
+        "commits_analyzed": 437,
+        "project_quality": 68
+      },
+      "leetcode": {
+        "problems_solved": 255,
+        "contest_rating": 1425
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1018",
+    "verified_skills": [
+      "React",
+      "Python",
+      "Machine Learning"
+    ],
+    "skill_confidence": 67,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Mumbai University",
+      "age": 29,
+      "location": "India",
+      "employment_gaps": 8
+    },
+    "evidence": {
+      "portfolio_score": 65,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.4,
+        "commits_analyzed": 90,
+        "project_quality": 84
+      },
+      "leetcode": {
+        "problems_solved": 8,
+        "contest_rating": 1572
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1019",
+    "verified_skills": [
+      "Node.js",
+      "React",
+      "Data Structures",
+      "Python",
+      "C++"
+    ],
+    "skill_confidence": 80,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 85,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.6,
+        "commits_analyzed": 383,
+        "project_quality": 82
+      },
+      "leetcode": {
+        "problems_solved": 269,
+        "contest_rating": 1532
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1020",
+    "verified_skills": [
+      "Node.js",
+      "C++",
+      "Java"
+    ],
+    "skill_confidence": 76,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "IIT Delhi",
+      "age": 25,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 75,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 0.8,
+        "commits_analyzed": 71,
+        "project_quality": 67
+      },
+      "leetcode": {
+        "problems_solved": 78,
+        "contest_rating": 1610
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1021",
+    "verified_skills": [
+      "Java",
+      "Node.js",
+      "C++",
+      "Python",
+      "Machine Learning",
+      "React",
+      "JavaScript"
+    ],
+    "skill_confidence": 80,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 31,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 81,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.3,
+        "commits_analyzed": 107,
+        "project_quality": 52
+      },
+      "leetcode": {
+        "problems_solved": 104,
+        "contest_rating": 1665
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1022",
+    "verified_skills": [
+      "Java",
+      "Data Structures",
+      "Python",
+      "Node.js",
+      "React"
+    ],
+    "skill_confidence": 67,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "VIT",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 6
+    },
+    "evidence": {
+      "portfolio_score": 62,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.6,
+        "commits_analyzed": 102,
+        "project_quality": 71
+      },
+      "leetcode": {
+        "problems_solved": 86,
+        "contest_rating": 1428
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1023",
+    "verified_skills": [
+      "Node.js",
+      "React",
+      "C++",
+      "Python",
+      "Data Structures",
+      "JavaScript",
+      "Java",
+      "Machine Learning"
+    ],
+    "skill_confidence": 70,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 34,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 70,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.5,
+        "commits_analyzed": 228,
+        "project_quality": 46
+      },
+      "leetcode": {
+        "problems_solved": 124,
+        "contest_rating": 1446
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1024",
+    "verified_skills": [
+      "JavaScript",
+      "C++",
+      "Data Structures",
+      "Node.js",
+      "Python",
+      "Machine Learning",
+      "Java"
+    ],
+    "skill_confidence": 78,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Manipal",
+      "age": 31,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 76,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 0.8,
+        "commits_analyzed": 388,
+        "project_quality": 89
+      },
+      "leetcode": {
+        "problems_solved": 23,
+        "contest_rating": 1338
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1025",
+    "verified_skills": [
+      "Node.js",
+      "Data Structures",
+      "React"
+    ],
+    "skill_confidence": 79,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "IIT Bombay",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 76,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.5,
+        "commits_analyzed": 164,
+        "project_quality": 59
+      },
+      "leetcode": {
+        "problems_solved": 220,
+        "contest_rating": 1903
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1026",
+    "verified_skills": [
+      "C++",
+      "JavaScript",
+      "Python"
+    ],
+    "skill_confidence": 61,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Manipal",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 65,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.3,
+        "commits_analyzed": 350,
+        "project_quality": 42
+      },
+      "leetcode": {
+        "problems_solved": 58,
+        "contest_rating": 1665
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1027",
+    "verified_skills": [
+      "Node.js",
+      "Java",
+      "JavaScript"
+    ],
+    "skill_confidence": 58,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Manipal",
+      "age": 25,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 57,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.1,
+        "commits_analyzed": 172,
+        "project_quality": 72
+      },
+      "leetcode": {
+        "problems_solved": 263,
+        "contest_rating": 1535
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1028",
+    "verified_skills": [
+      "Java",
+      "Node.js",
+      "C++",
+      "Python",
+      "JavaScript"
+    ],
+    "skill_confidence": 78,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "SRM",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 73,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.9,
+        "commits_analyzed": 182,
+        "project_quality": 49
+      },
+      "leetcode": {
+        "problems_solved": 204,
+        "contest_rating": 1379
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1029",
+    "verified_skills": [
+      "React",
+      "Node.js",
+      "Machine Learning",
+      "C++",
+      "Data Structures"
+    ],
+    "skill_confidence": 85,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Manipal",
+      "age": 29,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 89,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.0,
+        "commits_analyzed": 431,
+        "project_quality": 60
+      },
+      "leetcode": {
+        "problems_solved": 242,
+        "contest_rating": 1851
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1030",
+    "verified_skills": [
+      "React",
+      "JavaScript",
+      "Python"
+    ],
+    "skill_confidence": 78,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Mumbai University",
+      "age": 30,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 77,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.8,
+        "commits_analyzed": 176,
+        "project_quality": 56
+      },
+      "leetcode": {
+        "problems_solved": 163,
+        "contest_rating": 1857
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1031",
+    "verified_skills": [
+      "Java",
+      "Python",
+      "Data Structures",
+      "React",
+      "Machine Learning",
+      "JavaScript",
+      "Node.js"
+    ],
+    "skill_confidence": 72,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Anna University",
+      "age": 25,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 68,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.9,
+        "commits_analyzed": 318,
+        "project_quality": 49
+      },
+      "leetcode": {
+        "problems_solved": 110,
+        "contest_rating": 1848
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1032",
+    "verified_skills": [
+      "JavaScript",
+      "C++",
+      "Python",
+      "Data Structures",
+      "Node.js",
+      "React",
+      "Java"
+    ],
+    "skill_confidence": 73,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 5
+    },
+    "evidence": {
+      "portfolio_score": 76,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.6,
+        "commits_analyzed": 139,
+        "project_quality": 82
+      },
+      "leetcode": {
+        "problems_solved": 136,
+        "contest_rating": 1714
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1033",
+    "verified_skills": [
+      "C++",
+      "Python",
+      "React",
+      "Machine Learning",
+      "JavaScript",
+      "Data Structures",
+      "Node.js",
+      "Java"
+    ],
+    "skill_confidence": 77,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "BITS Pilani",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 81,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.8,
+        "commits_analyzed": 156,
+        "project_quality": 45
+      },
+      "leetcode": {
+        "problems_solved": 114,
+        "contest_rating": 1409
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1034",
+    "verified_skills": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "Data Structures",
+      "Java",
+      "React",
+      "Machine Learning"
+    ],
+    "skill_confidence": 65,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "M",
+      "college": "Anna University",
+      "age": 31,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 66,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.1,
+        "commits_analyzed": 314,
+        "project_quality": 59
+      },
+      "leetcode": {
+        "problems_solved": 138,
+        "contest_rating": 1686
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1035",
+    "verified_skills": [
+      "Machine Learning",
+      "C++",
+      "Node.js",
+      "Java",
+      "JavaScript",
+      "React",
+      "Python"
+    ],
+    "skill_confidence": 71,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Mumbai University",
+      "age": 26,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 66,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 0.9,
+        "commits_analyzed": 304,
+        "project_quality": 66
+      },
+      "leetcode": {
+        "problems_solved": 54,
+        "contest_rating": 1926
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1036",
+    "verified_skills": [
+      "Java",
+      "JavaScript",
+      "Node.js",
+      "Machine Learning",
+      "Python",
+      "Data Structures",
+      "C++"
+    ],
+    "skill_confidence": 80,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 31,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 78,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.5,
+        "commits_analyzed": 467,
+        "project_quality": 78
+      },
+      "leetcode": {
+        "problems_solved": 170,
+        "contest_rating": 1966
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1037",
+    "verified_skills": [
+      "Java",
+      "C++",
+      "JavaScript",
+      "Python",
+      "Node.js",
+      "Machine Learning",
+      "Data Structures",
+      "React"
+    ],
+    "skill_confidence": 83,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 33,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 81,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.6,
+        "commits_analyzed": 178,
+        "project_quality": 45
+      },
+      "leetcode": {
+        "problems_solved": 23,
+        "contest_rating": 1376
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1038",
+    "verified_skills": [
+      "C++",
+      "React",
+      "Data Structures",
+      "Machine Learning",
+      "Java"
+    ],
+    "skill_confidence": 72,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Anna University",
+      "age": 22,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 70,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.8,
+        "commits_analyzed": 385,
+        "project_quality": 48
+      },
+      "leetcode": {
+        "problems_solved": 250,
+        "contest_rating": 1295
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1039",
+    "verified_skills": [
+      "Data Structures",
+      "JavaScript",
+      "React",
+      "Python",
+      "Machine Learning"
+    ],
+    "skill_confidence": 82,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Anna University",
+      "age": 23,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 78,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.9,
+        "commits_analyzed": 439,
+        "project_quality": 57
+      },
+      "leetcode": {
+        "problems_solved": 159,
+        "contest_rating": 1722
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1040",
+    "verified_skills": [
+      "React",
+      "Java",
+      "Data Structures",
+      "Python",
+      "C++",
+      "Node.js",
+      "JavaScript"
+    ],
+    "skill_confidence": 79,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "BITS Pilani",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 81,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.9,
+        "commits_analyzed": 54,
+        "project_quality": 65
+      },
+      "leetcode": {
+        "problems_solved": 205,
+        "contest_rating": 1536
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1041",
+    "verified_skills": [
+      "Data Structures",
+      "Node.js",
+      "JavaScript",
+      "Java",
+      "Python",
+      "C++",
+      "Machine Learning",
+      "React"
+    ],
+    "skill_confidence": 72,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "IIIT Hyderabad",
+      "age": 21,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 77,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.4,
+        "commits_analyzed": 368,
+        "project_quality": 55
+      },
+      "leetcode": {
+        "problems_solved": 83,
+        "contest_rating": 1206
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1042",
+    "verified_skills": [
+      "JavaScript",
+      "Java",
+      "Node.js",
+      "Python",
+      "C++",
+      "Data Structures",
+      "Machine Learning",
+      "React"
+    ],
+    "skill_confidence": 88,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Manipal",
+      "age": 31,
+      "location": "India",
+      "employment_gaps": 10
+    },
+    "evidence": {
+      "portfolio_score": 89,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.7,
+        "commits_analyzed": 225,
+        "project_quality": 42
+      },
+      "leetcode": {
+        "problems_solved": 4,
+        "contest_rating": 1939
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1043",
+    "verified_skills": [
+      "Machine Learning",
+      "JavaScript",
+      "Java",
+      "C++",
+      "React",
+      "Python"
+    ],
+    "skill_confidence": 69,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "VIT",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 70,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.3,
+        "commits_analyzed": 147,
+        "project_quality": 70
+      },
+      "leetcode": {
+        "problems_solved": 62,
+        "contest_rating": 1339
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1044",
+    "verified_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Data Structures",
+      "C++"
+    ],
+    "skill_confidence": 75,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Manipal",
+      "age": 30,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 72,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 0.7,
+        "commits_analyzed": 218,
+        "project_quality": 75
+      },
+      "leetcode": {
+        "problems_solved": 125,
+        "contest_rating": 1423
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1045",
+    "verified_skills": [
+      "C++",
+      "Java",
+      "Python",
+      "Data Structures",
+      "Node.js"
+    ],
+    "skill_confidence": 80,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "SRM",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 79,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.3,
+        "commits_analyzed": 467,
+        "project_quality": 49
+      },
+      "leetcode": {
+        "problems_solved": 277,
+        "contest_rating": 1713
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1046",
+    "verified_skills": [
+      "React",
+      "Java",
+      "Node.js",
+      "Python",
+      "Data Structures"
+    ],
+    "skill_confidence": 95,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "NIT Trichy",
+      "age": 26,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 92,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.3,
+        "commits_analyzed": 281,
+        "project_quality": 71
+      },
+      "leetcode": {
+        "problems_solved": 12,
+        "contest_rating": 1359
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1047",
+    "verified_skills": [
+      "Python",
+      "Node.js",
+      "C++",
+      "JavaScript",
+      "Machine Learning",
+      "Data Structures"
+    ],
+    "skill_confidence": 73,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Manipal",
+      "age": 31,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 74,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.0,
+        "commits_analyzed": 52,
+        "project_quality": 73
+      },
+      "leetcode": {
+        "problems_solved": 268,
+        "contest_rating": 1736
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1048",
+    "verified_skills": [
+      "Machine Learning",
+      "C++",
+      "Data Structures",
+      "Node.js",
+      "JavaScript",
+      "Python",
+      "Java",
+      "React"
+    ],
+    "skill_confidence": 79,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "VIT",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 75,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.7,
+        "commits_analyzed": 349,
+        "project_quality": 88
+      },
+      "leetcode": {
+        "problems_solved": 227,
+        "contest_rating": 1494
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1049",
+    "verified_skills": [
+      "Java",
+      "Node.js",
+      "Machine Learning",
+      "C++",
+      "Data Structures",
+      "JavaScript",
+      "Python",
+      "React"
+    ],
+    "skill_confidence": 78,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 35,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 73,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.6,
+        "commits_analyzed": 306,
+        "project_quality": 76
+      },
+      "leetcode": {
+        "problems_solved": 213,
+        "contest_rating": 1482
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1050",
+    "verified_skills": [
+      "Python",
+      "Java",
+      "Data Structures",
+      "Machine Learning",
+      "C++",
+      "React",
+      "Node.js",
+      "JavaScript"
+    ],
+    "skill_confidence": 77,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 34,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 75,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.1,
+        "commits_analyzed": 168,
+        "project_quality": 89
+      },
+      "leetcode": {
+        "problems_solved": 95,
+        "contest_rating": 1595
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1051",
+    "verified_skills": [
+      "JavaScript",
+      "Machine Learning",
+      "React",
+      "Java",
+      "Data Structures",
+      "Node.js"
+    ],
+    "skill_confidence": 75,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 76,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.3,
+        "commits_analyzed": 186,
+        "project_quality": 72
+      },
+      "leetcode": {
+        "problems_solved": 173,
+        "contest_rating": 1816
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1052",
+    "verified_skills": [
+      "Machine Learning",
+      "JavaScript",
+      "Node.js",
+      "Data Structures",
+      "React",
+      "Java",
+      "C++"
+    ],
+    "skill_confidence": 69,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 27,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 74,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.7,
+        "commits_analyzed": 80,
+        "project_quality": 83
+      },
+      "leetcode": {
+        "problems_solved": 13,
+        "contest_rating": 1382
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1053",
+    "verified_skills": [
+      "C++",
+      "JavaScript",
+      "Python",
+      "Node.js",
+      "React",
+      "Machine Learning",
+      "Java",
+      "Data Structures"
+    ],
+    "skill_confidence": 73,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "IIT Delhi",
+      "age": 30,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 71,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.6,
+        "commits_analyzed": 189,
+        "project_quality": 65
+      },
+      "leetcode": {
+        "problems_solved": 300,
+        "contest_rating": 1849
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1054",
+    "verified_skills": [
+      "Java",
+      "Machine Learning",
+      "Python",
+      "React"
+    ],
+    "skill_confidence": 76,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "SRM",
+      "age": 35,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 73,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.3,
+        "commits_analyzed": 260,
+        "project_quality": 57
+      },
+      "leetcode": {
+        "problems_solved": 147,
+        "contest_rating": 1639
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1055",
+    "verified_skills": [
+      "Data Structures",
+      "C++",
+      "Machine Learning",
+      "JavaScript",
+      "Python",
+      "Java"
+    ],
+    "skill_confidence": 88,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "NIT Trichy",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 92,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.1,
+        "commits_analyzed": 145,
+        "project_quality": 81
+      },
+      "leetcode": {
+        "problems_solved": 127,
+        "contest_rating": 1664
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1056",
+    "verified_skills": [
+      "C++",
+      "Node.js",
+      "Machine Learning",
+      "JavaScript"
+    ],
+    "skill_confidence": 89,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "IIT Delhi",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 86,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.8,
+        "commits_analyzed": 275,
+        "project_quality": 41
+      },
+      "leetcode": {
+        "problems_solved": 94,
+        "contest_rating": 1311
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1057",
+    "verified_skills": [
+      "Machine Learning",
+      "Data Structures",
+      "Python"
+    ],
+    "skill_confidence": 81,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Manipal",
+      "age": 23,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 76,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.0,
+        "commits_analyzed": 91,
+        "project_quality": 78
+      },
+      "leetcode": {
+        "problems_solved": 41,
+        "contest_rating": 1811
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1058",
+    "verified_skills": [
+      "JavaScript",
+      "React",
+      "Data Structures",
+      "Java"
+    ],
+    "skill_confidence": 61,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "SRM",
+      "age": 30,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 57,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.4,
+        "commits_analyzed": 396,
+        "project_quality": 83
+      },
+      "leetcode": {
+        "problems_solved": 105,
+        "contest_rating": 1257
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1059",
+    "verified_skills": [
+      "Node.js",
+      "Java",
+      "Python",
+      "React",
+      "C++",
+      "Machine Learning",
+      "JavaScript",
+      "Data Structures"
+    ],
+    "skill_confidence": 74,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Anna University",
+      "age": 35,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 71,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.4,
+        "commits_analyzed": 53,
+        "project_quality": 48
+      },
+      "leetcode": {
+        "problems_solved": 198,
+        "contest_rating": 1741
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1060",
+    "verified_skills": [
+      "C++",
+      "Data Structures",
+      "Node.js",
+      "Python",
+      "React"
+    ],
+    "skill_confidence": 90,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 31,
+      "location": "India",
+      "employment_gaps": 7
+    },
+    "evidence": {
+      "portfolio_score": 91,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.4,
+        "commits_analyzed": 174,
+        "project_quality": 52
+      },
+      "leetcode": {
+        "problems_solved": 145,
+        "contest_rating": 1418
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1061",
+    "verified_skills": [
+      "C++",
+      "Java",
+      "Machine Learning",
+      "Node.js",
+      "Data Structures",
+      "Python"
+    ],
+    "skill_confidence": 90,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 21,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 89,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.9,
+        "commits_analyzed": 243,
+        "project_quality": 90
+      },
+      "leetcode": {
+        "problems_solved": 44,
+        "contest_rating": 1311
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1062",
+    "verified_skills": [
+      "Node.js",
+      "Python",
+      "React",
+      "C++"
+    ],
+    "skill_confidence": 80,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Anna University",
+      "age": 35,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 76,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.2,
+        "commits_analyzed": 114,
+        "project_quality": 85
+      },
+      "leetcode": {
+        "problems_solved": 291,
+        "contest_rating": 1416
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1063",
+    "verified_skills": [
+      "React",
+      "Java",
+      "Machine Learning",
+      "Python",
+      "Data Structures"
+    ],
+    "skill_confidence": 66,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 8
+    },
+    "evidence": {
+      "portfolio_score": 69,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 0.8,
+        "commits_analyzed": 74,
+        "project_quality": 84
+      },
+      "leetcode": {
+        "problems_solved": 206,
+        "contest_rating": 1639
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1064",
+    "verified_skills": [
+      "Data Structures",
+      "Java",
+      "React",
+      "Python"
+    ],
+    "skill_confidence": 72,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 21,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 69,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.0,
+        "commits_analyzed": 487,
+        "project_quality": 87
+      },
+      "leetcode": {
+        "problems_solved": 186,
+        "contest_rating": 1785
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1065",
+    "verified_skills": [
+      "JavaScript",
+      "Machine Learning",
+      "C++",
+      "Java",
+      "Data Structures",
+      "Python",
+      "Node.js"
+    ],
+    "skill_confidence": 78,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Manipal",
+      "age": 30,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 79,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.2,
+        "commits_analyzed": 91,
+        "project_quality": 41
+      },
+      "leetcode": {
+        "problems_solved": 220,
+        "contest_rating": 1609
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1066",
+    "verified_skills": [
+      "Machine Learning",
+      "Node.js",
+      "React",
+      "JavaScript"
+    ],
+    "skill_confidence": 69,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "SRM",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 67,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.2,
+        "commits_analyzed": 194,
+        "project_quality": 69
+      },
+      "leetcode": {
+        "problems_solved": 219,
+        "contest_rating": 1260
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1067",
+    "verified_skills": [
+      "C++",
+      "Node.js",
+      "React",
+      "Data Structures"
+    ],
+    "skill_confidence": 61,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "NIT Trichy",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 56,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.3,
+        "commits_analyzed": 481,
+        "project_quality": 42
+      },
+      "leetcode": {
+        "problems_solved": 295,
+        "contest_rating": 1410
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1068",
+    "verified_skills": [
+      "React",
+      "C++",
+      "JavaScript",
+      "Node.js"
+    ],
+    "skill_confidence": 77,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "VIT",
+      "age": 22,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 78,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.1,
+        "commits_analyzed": 387,
+        "project_quality": 60
+      },
+      "leetcode": {
+        "problems_solved": 32,
+        "contest_rating": 1688
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1069",
+    "verified_skills": [
+      "Data Structures",
+      "Machine Learning",
+      "JavaScript"
+    ],
+    "skill_confidence": 69,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Mumbai University",
+      "age": 31,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 65,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.3,
+        "commits_analyzed": 395,
+        "project_quality": 85
+      },
+      "leetcode": {
+        "problems_solved": 138,
+        "contest_rating": 1328
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1070",
+    "verified_skills": [
+      "Java",
+      "Python",
+      "Machine Learning",
+      "React",
+      "JavaScript",
+      "C++",
+      "Data Structures"
+    ],
+    "skill_confidence": 65,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 26,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 66,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.5,
+        "commits_analyzed": 492,
+        "project_quality": 58
+      },
+      "leetcode": {
+        "problems_solved": 29,
+        "contest_rating": 1758
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1071",
+    "verified_skills": [
+      "Java",
+      "JavaScript",
+      "React",
+      "Python",
+      "Data Structures"
+    ],
+    "skill_confidence": 71,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 69,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.6,
+        "commits_analyzed": 73,
+        "project_quality": 69
+      },
+      "leetcode": {
+        "problems_solved": 159,
+        "contest_rating": 1261
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1072",
+    "verified_skills": [
+      "Data Structures",
+      "React",
+      "Python",
+      "Node.js",
+      "Java",
+      "Machine Learning",
+      "C++"
+    ],
+    "skill_confidence": 90,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "IIT Bombay",
+      "age": 35,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 94,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.1,
+        "commits_analyzed": 288,
+        "project_quality": 79
+      },
+      "leetcode": {
+        "problems_solved": 40,
+        "contest_rating": 1337
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1073",
+    "verified_skills": [
+      "Node.js",
+      "Data Structures",
+      "C++",
+      "Python",
+      "JavaScript",
+      "Java",
+      "Machine Learning"
+    ],
+    "skill_confidence": 82,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "SRM",
+      "age": 22,
+      "location": "India",
+      "employment_gaps": 8
+    },
+    "evidence": {
+      "portfolio_score": 79,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 0.6,
+        "commits_analyzed": 483,
+        "project_quality": 57
+      },
+      "leetcode": {
+        "problems_solved": 35,
+        "contest_rating": 1962
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1074",
+    "verified_skills": [
+      "React",
+      "C++",
+      "Data Structures",
+      "Node.js"
+    ],
+    "skill_confidence": 74,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 71,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.1,
+        "commits_analyzed": 459,
+        "project_quality": 70
+      },
+      "leetcode": {
+        "problems_solved": 225,
+        "contest_rating": 1896
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1075",
+    "verified_skills": [
+      "Python",
+      "React",
+      "Machine Learning"
+    ],
+    "skill_confidence": 81,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "NIT Trichy",
+      "age": 29,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 78,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.6,
+        "commits_analyzed": 311,
+        "project_quality": 57
+      },
+      "leetcode": {
+        "problems_solved": 35,
+        "contest_rating": 1636
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1076",
+    "verified_skills": [
+      "Machine Learning",
+      "Python",
+      "Data Structures",
+      "Java",
+      "C++",
+      "React"
+    ],
+    "skill_confidence": 66,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Manipal",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 62,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.5,
+        "commits_analyzed": 290,
+        "project_quality": 65
+      },
+      "leetcode": {
+        "problems_solved": 146,
+        "contest_rating": 1747
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1077",
+    "verified_skills": [
+      "C++",
+      "React",
+      "Node.js",
+      "JavaScript",
+      "Data Structures"
+    ],
+    "skill_confidence": 73,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Mumbai University",
+      "age": 23,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 72,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.3,
+        "commits_analyzed": 268,
+        "project_quality": 89
+      },
+      "leetcode": {
+        "problems_solved": 45,
+        "contest_rating": 1525
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1078",
+    "verified_skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "Data Structures",
+      "C++",
+      "React",
+      "Node.js"
+    ],
+    "skill_confidence": 65,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 25,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 65,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.7,
+        "commits_analyzed": 329,
+        "project_quality": 89
+      },
+      "leetcode": {
+        "problems_solved": 190,
+        "contest_rating": 1597
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1079",
+    "verified_skills": [
+      "JavaScript",
+      "Machine Learning",
+      "Python",
+      "Node.js",
+      "C++",
+      "React",
+      "Java",
+      "Data Structures"
+    ],
+    "skill_confidence": 60,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "VIT",
+      "age": 22,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 60,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.4,
+        "commits_analyzed": 237,
+        "project_quality": 54
+      },
+      "leetcode": {
+        "problems_solved": 133,
+        "contest_rating": 1321
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1080",
+    "verified_skills": [
+      "JavaScript",
+      "Java",
+      "Node.js",
+      "Machine Learning",
+      "C++"
+    ],
+    "skill_confidence": 70,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "M",
+      "college": "Manipal",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 68,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.4,
+        "commits_analyzed": 352,
+        "project_quality": 84
+      },
+      "leetcode": {
+        "problems_solved": 39,
+        "contest_rating": 1272
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1081",
+    "verified_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "React",
+      "JavaScript"
+    ],
+    "skill_confidence": 76,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "IIIT Hyderabad",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 77,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.0,
+        "commits_analyzed": 406,
+        "project_quality": 73
+      },
+      "leetcode": {
+        "problems_solved": 261,
+        "contest_rating": 1877
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1082",
+    "verified_skills": [
+      "Machine Learning",
+      "C++",
+      "Python"
+    ],
+    "skill_confidence": 69,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Mumbai University",
+      "age": 22,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 73,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 1.0,
+        "commits_analyzed": 419,
+        "project_quality": 40
+      },
+      "leetcode": {
+        "problems_solved": 73,
+        "contest_rating": 1350
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1083",
+    "verified_skills": [
+      "React",
+      "Data Structures",
+      "JavaScript",
+      "Node.js",
+      "Python"
+    ],
+    "skill_confidence": 79,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 10
+    },
+    "evidence": {
+      "portfolio_score": 74,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.0,
+        "commits_analyzed": 349,
+        "project_quality": 64
+      },
+      "leetcode": {
+        "problems_solved": 53,
+        "contest_rating": 1402
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1084",
+    "verified_skills": [
+      "JavaScript",
+      "Python",
+      "Machine Learning"
+    ],
+    "skill_confidence": 70,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 21,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 66,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.6,
+        "commits_analyzed": 442,
+        "project_quality": 50
+      },
+      "leetcode": {
+        "problems_solved": 48,
+        "contest_rating": 1737
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1085",
+    "verified_skills": [
+      "Machine Learning",
+      "Data Structures",
+      "Java",
+      "React",
+      "JavaScript"
+    ],
+    "skill_confidence": 79,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "VIT",
+      "age": 26,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 77,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.3,
+        "commits_analyzed": 224,
+        "project_quality": 82
+      },
+      "leetcode": {
+        "problems_solved": 1,
+        "contest_rating": 1408
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1086",
+    "verified_skills": [
+      "Data Structures",
+      "Python",
+      "C++"
+    ],
+    "skill_confidence": 81,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 34,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 83,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 0.5,
+        "commits_analyzed": 396,
+        "project_quality": 74
+      },
+      "leetcode": {
+        "problems_solved": 147,
+        "contest_rating": 1708
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1087",
+    "verified_skills": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Node.js"
+    ],
+    "skill_confidence": 68,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "BITS Pilani",
+      "age": 30,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 66,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.2,
+        "commits_analyzed": 400,
+        "project_quality": 84
+      },
+      "leetcode": {
+        "problems_solved": 189,
+        "contest_rating": 1773
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1088",
+    "verified_skills": [
+      "Java",
+      "C++",
+      "React",
+      "JavaScript",
+      "Python",
+      "Machine Learning"
+    ],
+    "skill_confidence": 70,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 27,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 66,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.5,
+        "commits_analyzed": 293,
+        "project_quality": 40
+      },
+      "leetcode": {
+        "problems_solved": 0,
+        "contest_rating": 1624
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1089",
+    "verified_skills": [
+      "Data Structures",
+      "JavaScript",
+      "Python",
+      "Node.js",
+      "Java",
+      "C++"
+    ],
+    "skill_confidence": 65,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Manipal",
+      "age": 32,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 69,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.3,
+        "commits_analyzed": 318,
+        "project_quality": 87
+      },
+      "leetcode": {
+        "problems_solved": 191,
+        "contest_rating": 1730
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1090",
+    "verified_skills": [
+      "Machine Learning",
+      "Node.js",
+      "Data Structures",
+      "Python",
+      "Java"
+    ],
+    "skill_confidence": 75,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "SRM",
+      "age": 23,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 80,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.9,
+        "commits_analyzed": 279,
+        "project_quality": 88
+      },
+      "leetcode": {
+        "problems_solved": 296,
+        "contest_rating": 1636
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1091",
+    "verified_skills": [
+      "Node.js",
+      "JavaScript",
+      "C++",
+      "React",
+      "Java",
+      "Python",
+      "Machine Learning",
+      "Data Structures"
+    ],
+    "skill_confidence": 60,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "BITS Pilani",
+      "age": 23,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 60,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.1,
+        "commits_analyzed": 496,
+        "project_quality": 79
+      },
+      "leetcode": {
+        "problems_solved": 217,
+        "contest_rating": 1445
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1092",
+    "verified_skills": [
+      "React",
+      "Machine Learning",
+      "Data Structures",
+      "Node.js"
+    ],
+    "skill_confidence": 78,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "IIIT Hyderabad",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 73,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.4,
+        "commits_analyzed": 105,
+        "project_quality": 73
+      },
+      "leetcode": {
+        "problems_solved": 214,
+        "contest_rating": 1409
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1093",
+    "verified_skills": [
+      "Machine Learning",
+      "C++",
+      "Java",
+      "React",
+      "Python",
+      "JavaScript",
+      "Node.js"
+    ],
+    "skill_confidence": 84,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Anna University",
+      "age": 25,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 82,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.4,
+        "commits_analyzed": 137,
+        "project_quality": 76
+      },
+      "leetcode": {
+        "problems_solved": 279,
+        "contest_rating": 1855
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1094",
+    "verified_skills": [
+      "C++",
+      "React",
+      "Data Structures",
+      "Machine Learning"
+    ],
+    "skill_confidence": 73,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "IIIT Hyderabad",
+      "age": 22,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 72,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 4.2,
+        "commits_analyzed": 244,
+        "project_quality": 75
+      },
+      "leetcode": {
+        "problems_solved": 51,
+        "contest_rating": 1788
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1095",
+    "verified_skills": [
+      "Machine Learning",
+      "Data Structures",
+      "Python",
+      "C++"
+    ],
+    "skill_confidence": 74,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "Mumbai University",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 78,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 2.3,
+        "commits_analyzed": 269,
+        "project_quality": 87
+      },
+      "leetcode": {
+        "problems_solved": 178,
+        "contest_rating": 1222
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1096",
+    "verified_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js",
+      "Data Structures",
+      "C++"
+    ],
+    "skill_confidence": 72,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "F",
+      "college": "SRM",
+      "age": 30,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 72,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.0,
+        "commits_analyzed": 302,
+        "project_quality": 90
+      },
+      "leetcode": {
+        "problems_solved": 258,
+        "contest_rating": 1257
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1097",
+    "verified_skills": [
+      "Machine Learning",
+      "React",
+      "Node.js"
+    ],
+    "skill_confidence": 58,
+    "credential_status": "PROVISIONAL",
+    "metadata": {
+      "gender": "F",
+      "college": "Anna University",
+      "age": 33,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 61,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 5.6,
+        "commits_analyzed": 122,
+        "project_quality": 49
+      },
+      "leetcode": {
+        "problems_solved": 38,
+        "contest_rating": 1701
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1098",
+    "verified_skills": [
+      "Node.js",
+      "Data Structures",
+      "Java",
+      "React",
+      "Python"
+    ],
+    "skill_confidence": 92,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "IIT Delhi",
+      "age": 24,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 97,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 3.2,
+        "commits_analyzed": 465,
+        "project_quality": 87
+      },
+      "leetcode": {
+        "problems_solved": 146,
+        "contest_rating": 1915
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  },
+  {
+    "candidate_id": "anon_1099",
+    "verified_skills": [
+      "JavaScript",
+      "Node.js",
+      "C++",
+      "Python",
+      "Machine Learning",
+      "Data Structures",
+      "Java"
+    ],
+    "skill_confidence": 72,
+    "credential_status": "VERIFIED",
+    "metadata": {
+      "gender": "M",
+      "college": "Mumbai University",
+      "age": 28,
+      "location": "India",
+      "employment_gaps": 0
+    },
+    "evidence": {
+      "portfolio_score": 74,
+      "test_score": null
+    },
+    "evidence_details": {
+      "github": {
+        "account_age_years": 6.0,
+        "commits_analyzed": 156,
+        "project_quality": 48
+      },
+      "leetcode": {
+        "problems_solved": 158,
+        "contest_rating": 1574
+      }
+    },
+    "timestamp": "2026-01-20T10:00:00Z"
+  }
+]

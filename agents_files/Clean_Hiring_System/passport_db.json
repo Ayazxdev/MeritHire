@@ -1,0 +1,591 @@
+{
+  "cred_12506212": {
+    "credential_id": "cred_12506212",
+    "hash": "0x0834a0e5e4d322947a2366fe1cb770125ecade05fe8d9830a9958aabe3221bd0",
+    "signature": "0x148ab1b49938333b7b30f704f44a8c2ee4dfe19f4d60445dbc6e8b6469eee67a",
+    "public_view": {
+      "credential_id": "cred_12506212",
+      "candidate_id": "usr_406afee385ad",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "UAV",
+          "ROS",
+          "Machine Learning",
+          "Object Detection",
+          "Deep Learning",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO",
+          "OpenCV",
+          "React"
+        ],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 40,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-28T23:57:55.431999+00:00",
+      "expires_at": "2027-01-28T23:57:55.432021+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_9d03d28f"
+    }
+  },
+  "cred_6cf1bd37": {
+    "credential_id": "cred_6cf1bd37",
+    "hash": "0x6512c477be22119edaaf6045bb1205e9172ef4af1d19af0e39056ed292586fe6",
+    "signature": "0xff11e9cf8785b773eb599cf63d405654f95e7f5940e3d9a7caa839153f371f16",
+    "public_view": {
+      "credential_id": "cred_6cf1bd37",
+      "candidate_id": "usr_9d57431ee5dd",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "Machine Learning",
+          "UAV",
+          "ROS",
+          "C++",
+          "C++17",
+          "Object Detection",
+          "Deep Learning",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO",
+          "OpenCV",
+          "React"
+        ],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 44,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T00:01:04.860565+00:00",
+      "expires_at": "2027-01-29T00:01:04.860605+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_87c627e5"
+    }
+  },
+  "cred_acec1cd5": {
+    "credential_id": "cred_acec1cd5",
+    "hash": "0x218508769e877a0982c3cb3b332ff154c8c67f6991d2aa3bfa7d7811433f5392",
+    "signature": "0x19d8686d4744585d4e27408d3d767f41969437394e9cae9ef9033b772d480dff",
+    "public_view": {
+      "credential_id": "cred_acec1cd5",
+      "candidate_id": "usr_846a984af6f1",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "Machine Learning",
+          "ROS",
+          "UAV",
+          "C++",
+          "C++17",
+          "Object Detection",
+          "Deep Learning",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO",
+          "OpenCV",
+          "React"
+        ],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 44,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T00:09:41.546077+00:00",
+      "expires_at": "2027-01-29T00:09:41.546087+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_868db064"
+    }
+  },
+  "cred_173d2fd9": {
+    "credential_id": "cred_173d2fd9",
+    "hash": "0xff6108861eae3db3ac30e4190652a43f0ea02063a532c8bfaf459e8ef5fbc756",
+    "signature": "0xafbf8d0853a662ce3d1148c5f6c11d8d281ab4f8f242ca906f751321db0f5362",
+    "public_view": {
+      "credential_id": "cred_173d2fd9",
+      "candidate_id": "usr_b53a053a1138",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "ROS",
+          "UAV",
+          "Machine Learning",
+          "C++",
+          "C++17",
+          "Object Detection",
+          "Deep Learning",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO",
+          "React",
+          "OpenCV"
+        ],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 44,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T00:11:34.466603+00:00",
+      "expires_at": "2027-01-29T00:11:34.466627+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_c07fe23c"
+    }
+  },
+  "cred_5e3215e6": {
+    "credential_id": "cred_5e3215e6",
+    "hash": "0x9ef225a2380843b02c831f60db4653d080c17913e20f77f1a676dd4d7bd36842",
+    "signature": "0xb9ab93519317cf1c17ff4ccd807b81cd883bd11341836904dfaafbdef32b0e2f",
+    "public_view": {
+      "credential_id": "cred_5e3215e6",
+      "candidate_id": "usr_d0357d506093",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "ROS",
+          "Machine Learning",
+          "UAV",
+          "C++",
+          "C++17",
+          "Object Detection",
+          "Deep Learning",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO",
+          "React",
+          "OpenCV"
+        ],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 44,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T00:24:14.175611+00:00",
+      "expires_at": "2027-01-29T00:24:14.175633+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_1fcd9aec"
+    }
+  },
+  "cred_11abc77c": {
+    "credential_id": "cred_11abc77c",
+    "hash": "0x7d2ca80d68c6f181c8c56c4ebadafdf7f2c6c9b1e1b6ad8dcf2988d62e789258",
+    "signature": "0xbe397023106c14e8d16dc843440dee07bb6ea0db0d7b2f2ae1b1ee7c0bed132e",
+    "public_view": {
+      "credential_id": "cred_11abc77c",
+      "candidate_id": "usr_26a67c125019",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "UAV",
+          "Machine Learning",
+          "ROS",
+          "C++",
+          "C++17",
+          "Object Detection",
+          "Deep Learning",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO",
+          "React",
+          "OpenCV"
+        ],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 44,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T00:33:09.683820+00:00",
+      "expires_at": "2027-01-29T00:33:09.683835+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_63c6c862"
+    }
+  },
+  "cred_6e04321c": {
+    "credential_id": "cred_6e04321c",
+    "hash": "0xa0b949ea190f91ddd2fef5e13847fbc5cb59bb9bb1b79781774ce468e56203e7",
+    "signature": "0x5d7e29d5c811a68f194fce6fb097a39b7d8e06ffac4d322f4033b739d8572d78",
+    "public_view": {
+      "credential_id": "cred_6e04321c",
+      "candidate_id": "usr_13e60f8983ad",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "AutoML",
+          "JAX",
+          "MLOps",
+          "Machine Learning",
+          "NLP",
+          "Rust",
+          "SQL",
+          "TensorRT",
+          "XGBoost",
+          "scikit-learn",
+          "UAV",
+          "ROS",
+          "C++",
+          "C++17",
+          "Object Detection",
+          "Deep Learning",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO",
+          "Keras",
+          "PyTorch",
+          "TensorFlow",
+          "OpenCV",
+          "React"
+        ],
+        "infrastructure": [
+          "AWS",
+          "Docker",
+          "GCP",
+          "Kubernetes"
+        ],
+        "tools": []
+      },
+      "skill_confidence": 59,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T00:40:00.389680+00:00",
+      "expires_at": "2027-01-29T00:40:00.389695+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_7d77a634"
+    }
+  },
+  "cred_7285198c": {
+    "credential_id": "cred_7285198c",
+    "hash": "0xbbf805bf3801065a92a2291f9f866b77ae9ea4696b0e42300c278dd25d25f585",
+    "signature": "0xf7ac9e119340b881b1fcd0aa400f5a7e49f86e504f759fa202ba0c0ef5bc4264",
+    "public_view": {
+      "credential_id": "cred_7285198c",
+      "candidate_id": "usr_f434ba80f4a8",
+      "verified_skills": {
+        "core": [
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "C++17"
+        ],
+        "frameworks": [],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 40,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T00:47:48.966856+00:00",
+      "expires_at": "2027-01-29T00:47:48.966866+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_8b17e239"
+    }
+  },
+  "cred_e34c0e47": {
+    "credential_id": "cred_e34c0e47",
+    "hash": "0x8af36f743aeebbe11e77257164023ef1cbc0e6b6637205c36e4615ded97ba61e",
+    "signature": "0xba62ae6880e91449171d253da2e1d8d1a58e8ec68bcc54c415f6c6a9f288c958",
+    "public_view": {
+      "credential_id": "cred_e34c0e47",
+      "candidate_id": "usr_1b0f8f303b03",
+      "verified_skills": {
+        "core": [
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "AutoML",
+          "Computer Vision",
+          "JAX",
+          "MLOps",
+          "Machine Learning",
+          "NLP",
+          "Python",
+          "Rust",
+          "SQL",
+          "TensorRT",
+          "XGBoost",
+          "scikit-learn",
+          "MySQL",
+          "C++17"
+        ],
+        "frameworks": [
+          "Keras",
+          "PyTorch",
+          "TensorFlow"
+        ],
+        "infrastructure": [
+          "AWS",
+          "Docker",
+          "GCP",
+          "Kubernetes"
+        ],
+        "tools": []
+      },
+      "skill_confidence": 57,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T00:56:35.024055+00:00",
+      "expires_at": "2027-01-29T00:56:35.024065+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_de5aaf38"
+    }
+  },
+  "cred_c490026d": {
+    "credential_id": "cred_c490026d",
+    "hash": "0x8e9f0043134486d31e636f91ee63b820cfab9cbae913261d9d83615d172b1b65",
+    "signature": "0x6fe6eafd3272bc4fb114a0bce22649a86b4157b8692b43a1b0e1d33b2ac2ace9",
+    "public_view": {
+      "credential_id": "cred_c490026d",
+      "candidate_id": "usr_f71a649a684f",
+      "verified_skills": {
+        "core": [
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "SQL",
+          "Python",
+          "MySQL",
+          "C++17"
+        ],
+        "frameworks": [],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 43,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T01:04:11.333956+00:00",
+      "expires_at": "2027-01-29T01:04:11.333971+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_7056b66f"
+    }
+  },
+  "cred_4b1d0f43": {
+    "credential_id": "cred_4b1d0f43",
+    "hash": "0x453b6ed065d436d21d504a6b2c84c88bc7f6bc60c3d07a05b48fe7cc26e83d87",
+    "signature": "0x8428f30a0a7dff91d5feaf21e142e86c0919f96aa5707374b408d26db9a9a7f7",
+    "public_view": {
+      "credential_id": "cred_4b1d0f43",
+      "candidate_id": "usr_cdff3a6b117e",
+      "verified_skills": {
+        "core": [
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "Python",
+          "SQL",
+          "MySQL",
+          "C++17"
+        ],
+        "frameworks": [],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 43,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T01:08:26.790056+00:00",
+      "expires_at": "2027-01-29T01:08:26.790073+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_71ea4984"
+    }
+  },
+  "cred_6a9aed59": {
+    "credential_id": "cred_6a9aed59",
+    "hash": "0x2e1324881750a962fe71651b94fe4a2085c7dca8bce25b37a4053da2ceb074cc",
+    "signature": "0x1457b9249aec02b39d042c7fe866a31505c00e5077e84ec583c3234ea3a88a11",
+    "public_view": {
+      "credential_id": "cred_6a9aed59",
+      "candidate_id": "usr_f8b3e751fb01",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "SQL",
+          "C++",
+          "MySQL",
+          "C++17",
+          "Object Detection",
+          "Deep Learning",
+          "UAV",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO"
+        ],
+        "infrastructure": [],
+        "tools": []
+      },
+      "skill_confidence": 44,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-29T01:12:36.085100+00:00",
+      "expires_at": "2027-01-29T01:12:36.085112+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_6cb46a61"
+    }
+  },
+  "cred_8453ce2a": {
+    "credential_id": "cred_8453ce2a",
+    "hash": "0x7afd9087d7ba3acb286030e763ea200961c806e7c75db63691eca59f20a56a31",
+    "signature": "0xf4e62976b1eaa1ac7001c3ace53528cbdbbd34fb1279e239d661ebb2bd66059e",
+    "public_view": {
+      "credential_id": "cred_8453ce2a",
+      "candidate_id": "usr_4422d604cf17",
+      "verified_skills": {
+        "core": [
+          "JavaScript",
+          "Python",
+          "TypeScript",
+          "CSS",
+          "PX4",
+          "MAVSDK",
+          "Computer Vision",
+          "C++",
+          "C++17",
+          "Object Detection",
+          "Deep Learning",
+          "UAV",
+          "Autonomous Systems",
+          "Robotics",
+          "Drone Development"
+        ],
+        "frameworks": [
+          "YOLO"
+        ],
+        "infrastructure": [
+          "AWS",
+          "Docker"
+        ],
+        "tools": []
+      },
+      "skill_confidence": 46,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-30T14:42:15.771526+00:00",
+      "expires_at": "2027-01-30T14:42:15.771526+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_127eb7e5"
+    }
+  },
+  "cred_42fe7751": {
+    "credential_id": "cred_42fe7751",
+    "hash": "0xa642e802fa64ba017f11bcdae118a3fea2d91ba7f88d90011847b778ffbd5dea",
+    "signature": "0xc88858c0ac2a6bff94e2b4314911d85f7041aba613a7deb643325260feec3de6",
+    "public_view": {
+      "credential_id": "cred_42fe7751",
+      "candidate_id": "usr_dc8d12c5542b",
+      "verified_skills": {
+        "core": [
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "Python",
+          "C++17"
+        ],
+        "frameworks": [],
+        "infrastructure": [
+          "AWS",
+          "Docker"
+        ],
+        "tools": []
+      },
+      "skill_confidence": 37,
+      "credential_status": "PENDING_TEST",
+      "issued_by": "FairHiringNetwork",
+      "issued_at": "2026-01-30T14:50:15.354889+00:00",
+      "expires_at": "2027-01-30T14:50:15.354889+00:00"
+    },
+    "private_refs": {
+      "evaluation_id": "eval_a990a82a"
+    }
+  }
+}

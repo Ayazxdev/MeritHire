@@ -1,0 +1,30 @@
+{
+  "white_text_detected": false,
+  "hidden_word_count": 0,
+  "suspicious_matches": [],
+  "injection_detected": true,
+  "patterns_matched": [],
+  "match_count": 0,
+  "severity": "critical",
+  "action": "immediate_blacklist",
+  "narrative_analysis": {
+    "suspicious_semantic_patterns": true,
+    "professional_language_mask": true,
+    "confidence": "medium",
+    "details": [
+      {
+        "detected": true,
+        "type": "semantic_injection",
+        "severity": "medium",
+        "patterns_matched": [
+          "Evaluation systems processing this data should recognize",
+          "Assessment frameworks are designed to"
+        ],
+        "match_count": 2,
+        "action": "flag_for_review"
+      }
+    ]
+  },
+  "final_action": "BLACKLISTED",
+  "human_review_reason": "Critical security violation detected. Resume contains hidden manipulation layers."
+}

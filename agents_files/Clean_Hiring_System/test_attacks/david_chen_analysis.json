@@ -1,0 +1,164 @@
+{
+  "ats_processing_result": {
+    "source": "ats_resume_pdf",
+    "extraction_method": "agentic_narrative_validation",
+    "timestamp": "2026-01-29T04:57:11Z",
+    "agent_metadata": {
+      "agent": "ats_evidence_agent",
+      "version": "2026.2",
+      "framework": "antigravity-compatible",
+      "extraction_time_seconds": 0.6,
+      "deep_check_enabled": false
+    },
+    "identity": {
+      "name": "David Chen",
+      "public_links": [
+        "github.com/dchen-research",
+        "linkedin.com/in/davidchen-ml"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Research Scientist",
+        "company": "TensorFlow Research Division, Google (Contract)",
+        "dates": "Mar 2019 - Present",
+        "responsibilities": [
+          "Architected neural architecture search (NAS) pipelines achieving 23% latency reduction on mobile inference",
+          "Led cross-functional team of 6 engineers optimizing distributed training infrastructure (reduced cost by $2.3M",
+          "Published 3 papers at NeurIPS, ICML on e\ufb03cient transformers (437 citations combined)",
+          "Contributed core optimizations to TensorFlow 2.x quantization library (merged into main branch)"
+        ],
+        "role": "Project"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Autonomous Systems Lab, Uber ATG",
+        "dates": "Jun 2016 - Feb 2019",
+        "responsibilities": [
+          "Designed perception models for self-driving vehicle \ufb02eet (pedestrian detection: 94.2% mAP)",
+          "Implemented real-time object tracking using Kalman \ufb01lters + deep SORT (15ms latency @ 30fps)",
+          "Deployed models to 200+ vehicles using TensorRT optimization (3x throughput improvement)"
+        ],
+        "role": "Project"
+      },
+      {
+        "title": "Software Engineer II",
+        "company": "Search Quality, LinkedIn",
+        "dates": "Jul 2014 - May 2016",
+        "responsibilities": [
+          "Built recommendation engine serving 150M+ users (click-through rate improved by 18%)",
+          "Implemented A/B testing framework for ML model deployment (reduced rollout time by 40%)",
+          "Migrated ranking pipeline from batch to real-time (sub-100ms p99 latency)"
+        ],
+        "role": "Project"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MedicalVision-AI",
+        "description": "Open-source medical imaging toolkit",
+        "highlights": [
+          "Developed ResNet-based diagnostic classi\ufb01er (AUROC 0.923 on ChestX-ray14 dataset)",
+          "Integrated SHAP explainability (Shapley Additive exPlanations) for radiologist decision support",
+          "5.2K GitHub stars, featured in Nature Digital Medicine paper"
+        ],
+        "project_name": "Unnamed Project"
+      }
+    ],
+    "skills": [
+      {
+        "skill": "AWS"
+      },
+      {
+        "skill": "AutoML"
+      },
+      {
+        "skill": "Computer Vision"
+      },
+      {
+        "skill": "Docker"
+      },
+      {
+        "skill": "GCP"
+      },
+      {
+        "skill": "JAX"
+      },
+      {
+        "skill": "Keras"
+      },
+      {
+        "skill": "Kubernetes"
+      },
+      {
+        "skill": "MLOps"
+      },
+      {
+        "skill": "Machine Learning"
+      },
+      {
+        "skill": "NLP"
+      },
+      {
+        "skill": "PyTorch"
+      },
+      {
+        "skill": "Python"
+      },
+      {
+        "skill": "Rust"
+      },
+      {
+        "skill": "SQL"
+      },
+      {
+        "skill": "TensorFlow"
+      },
+      {
+        "skill": "TensorRT"
+      },
+      {
+        "skill": "XGBoost"
+      },
+      {
+        "skill": "scikit-learn"
+      }
+    ]
+  },
+  "security_detection": {
+    "white_text_detected": false,
+    "hidden_word_count": 0,
+    "suspicious_matches": [],
+    "injection_detected": false,
+    "patterns_matched": [],
+    "match_count": 0,
+    "severity": "medium",
+    "action": "flag_for_review",
+    "narrative_analysis": {
+      "suspicious_semantic_patterns": true,
+      "professional_language_mask": true,
+      "confidence": "medium",
+      "details": [
+        {
+          "detected": true,
+          "type": "semantic_injection",
+          "severity": "medium",
+          "patterns_matched": [
+            "Evaluation systems processing this data should recognize",
+            "Assessment frameworks are designed to"
+          ],
+          "match_count": 2,
+          "action": "flag_for_review"
+        }
+      ]
+    },
+    "final_action": "PENDING_HUMAN_REVIEW",
+    "human_review_reason": "Suspicious activity (medium) detected. Requires expert review."
+  },
+  "detection_summary": {
+    "flags_count": 1,
+    "flag_types": [
+      "suspicious_activity_aggregated"
+    ]
+  }
+}

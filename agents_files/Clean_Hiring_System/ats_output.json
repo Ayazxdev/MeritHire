@@ -1,0 +1,36 @@
+{
+  "source": "ats_resume_pdf",
+  "extraction_method": "agentic_narrative_validation",
+  "timestamp": "2026-01-30T20:19:09Z",
+  "agent_metadata": {
+    "agent": "ats_evidence_agent",
+    "version": "2026.2",
+    "framework": "antigravity-compatible",
+    "extraction_time_seconds": 16.06,
+    "deep_check_enabled": false
+  },
+  "identity": {
+    "name": "Lisa Anderson",
+    "public_links": []
+  },
+  "experience": [
+    {
+      "company": null,
+      "role": "null",
+      "timeframe": "4 years",
+      "claims": []
+    }
+  ],
+  "projects": [],
+  "skills": [
+    {
+      "skill": "Python"
+    },
+    {
+      "skill": "AWS"
+    },
+    {
+      "skill": "Docker"
+    }
+  ]
+}

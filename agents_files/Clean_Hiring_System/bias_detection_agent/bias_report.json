@@ -1,0 +1,29 @@
+{
+  "bias_detected": true,
+  "severity": "medium",
+  "checks_performed": [
+    "metadata_leak",
+    "quick_flags",
+    "gender_bias",
+    "college_bias",
+    "github_age_bias"
+  ],
+  "details": {
+    "metadata_leak_detected": false,
+    "gender_bias": {
+      "bias_detected": true,
+      "severity": "medium",
+      "gap": 8.68,
+      "male_avg": 78.49,
+      "female_avg": 69.81
+    },
+    "college_bias": {
+      "bias_detected": false
+    },
+    "github_age_bias": {
+      "bias_detected": false
+    }
+  },
+  "action": "proceed_to_matching",
+  "timestamp": "2026-01-28T03:59:27.052206"
+}

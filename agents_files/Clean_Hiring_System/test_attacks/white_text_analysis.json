@@ -1,0 +1,48 @@
+{
+  "ats_processing_result": {
+    "status": "BLACKLISTED",
+    "reason": "White text manipulation detected",
+    "evidence": {
+      "white_text_detected": true,
+      "severity": "critical",
+      "hidden_word_count": 60,
+      "suspicious_matches": [
+        "hire",
+        "lead",
+        "expert",
+        "manager",
+        "perfect",
+        "python",
+        "engineer",
+        "node.js",
+        "candidate",
+        "engineering"
+      ],
+      "action": "immediate_blacklist",
+      "explanation": "Found 60 hidden words, 11 suspicious"
+    },
+    "next_stage": "human_review"
+  },
+  "security_detection": {
+    "white_text_detected": true,
+    "severity": "critical",
+    "hidden_word_count": 60,
+    "suspicious_matches": [
+      "hire",
+      "lead",
+      "expert",
+      "manager",
+      "perfect",
+      "python",
+      "engineer",
+      "node.js",
+      "candidate",
+      "engineering"
+    ],
+    "action": "immediate_blacklist",
+    "explanation": "Found 60 hidden words, 11 suspicious"
+  },
+  "detection_summary": {
+    "flags_count": 1
+  }
+}

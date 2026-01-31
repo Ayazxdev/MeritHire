@@ -1,0 +1,1498 @@
+{
+  "skills": {
+    "C++": {
+      "skill": "C++",
+      "sources": [
+        "github",
+        "ats",
+        "linkedin",
+        "leetcode"
+      ],
+      "evidence_types": [
+        "code_evidence",
+        "claim",
+        "algorithmic_proof"
+      ],
+      "confidence": 0.95
+    },
+    "JavaScript": {
+      "skill": "JavaScript",
+      "sources": [
+        "github",
+        "ats"
+      ],
+      "evidence_types": [
+        "code_evidence",
+        "claim"
+      ],
+      "confidence": 0.7
+    },
+    "TypeScript": {
+      "skill": "TypeScript",
+      "sources": [
+        "github"
+      ],
+      "evidence_types": [
+        "code_evidence"
+      ],
+      "confidence": 0.45
+    },
+    "Python": {
+      "skill": "Python",
+      "sources": [
+        "ats",
+        "linkedin"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.4
+    },
+    "Java": {
+      "skill": "Java",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "SQL": {
+      "skill": "SQL",
+      "sources": [
+        "ats",
+        "linkedin"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.4
+    },
+    "HTML": {
+      "skill": "HTML",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "CSS": {
+      "skill": "CSS",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "Node.js": {
+      "skill": "Node.js",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "Express.js": {
+      "skill": "Express.js",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "REST APIs": {
+      "skill": "REST APIs",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "JWT Authentication": {
+      "skill": "JWT Authentication",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "React.js": {
+      "skill": "React.js",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "Next.js": {
+      "skill": "Next.js",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "T ailwind CSS": {
+      "skill": "T ailwind CSS",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "Responsive Web Design": {
+      "skill": "Responsive Web Design",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "MongoDB": {
+      "skill": "MongoDB",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "PostgreSQL": {
+      "skill": "PostgreSQL",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "MySQL": {
+      "skill": "MySQL",
+      "sources": [
+        "ats",
+        "linkedin"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.4
+    },
+    "Git": {
+      "skill": "Git",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "GitHub": {
+      "skill": "GitHub",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "Docker": {
+      "skill": "Docker",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "Linux": {
+      "skill": "Linux",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "AWS": {
+      "skill": "AWS",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "VS Code": {
+      "skill": "VS Code",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "Postman": {
+      "skill": "Postman",
+      "sources": [
+        "ats"
+      ],
+      "evidence_types": [
+        "claim"
+      ],
+      "confidence": 0.25
+    },
+    "C++17": {
+      "skill": "C++17",
+      "sources": [
+        "codeforces"
+      ],
+      "evidence_types": [
+        "algorithmic_proof"
+      ],
+      "confidence": 0.1
+    }
+  },
+  "experience": [
+    {
+      "company": "Self-Employed",
+      "role": "Freelance Front-End Developer and UI Designer",
+      "timeframe": "Mar 2019 \u2013 Present",
+      "source": "ats"
+    },
+    {
+      "company": "Self-Employed",
+      "role": "Freelance Web Designer, Web Extractor and C++ Programmer",
+      "timeframe": "Feb 2020 \u2013 Present",
+      "source": "ats"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-Time Chat Application",
+      "description": [
+        {
+          "description": "Built full-stack messaging app with real-time communication using Socket.IO and WebSockets.",
+          "technology": [
+            "WebSockets",
+            "Socket.IO"
+          ],
+          "outcome": null,
+          "evidence_strength": "high"
+        },
+        {
+          "description": "Implemented JWT authentication, Redux state management, and RESTful API architecture.",
+          "technology": [
+            "RESTful",
+            "JWT",
+            "Redux"
+          ],
+          "outcome": null,
+          "evidence_strength": "high"
+        },
+        {
+          "description": "Deployed on Render with optimized CORS, production error handling, and secure cookies.",
+          "technology": [],
+          "outcome": null,
+          "evidence_strength": "medium"
+        }
+      ],
+      "source": "ats"
+    },
+    {
+      "name": "URL Shortener",
+      "description": [
+        {
+          "description": "Designed and developed a full-stack URL shortener using JavaScript. Structured with separate backend and frontend components.",
+          "technology": [
+            "JavaScript"
+          ],
+          "outcome": null,
+          "evidence_strength": "high"
+        },
+        {
+          "description": "Successfully implemented core features including link creation, redirection handling, and project organization.",
+          "technology": [],
+          "outcome": null,
+          "evidence_strength": "medium"
+        }
+      ],
+      "source": "ats"
+    }
+  ],
+  "confidence_controls": {
+    "missing_signals": [],
+    "weak_signals": [
+      "C++17 (confidence: 0.10)"
+    ],
+    "conflict_flags": [
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'Python' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      },
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'Java' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      },
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'CSS' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      },
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'JWT Authentication' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      },
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'T ailwind CSS' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      },
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'MongoDB' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      },
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'Docker' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      },
+      {
+        "type": "skill_claim_without_code",
+        "issue": "'VS Code' claimed in resume but no code evidence on GitHub",
+        "severity": "medium"
+      }
+    ]
+  },
+  "signals": {
+    "github": {
+      "username": "Xtract01",
+      "analyzed_at": "2026-01-27T21:18:40.418464",
+      "profile": {
+        "username": "Xtract01",
+        "name": "Anirudh Singh",
+        "bio": null,
+        "company": null,
+        "location": "Delhi , India",
+        "email": null,
+        "blog": "",
+        "account_created": "2023-08-26T12:54:53Z",
+        "account_age_years": 2.4,
+        "account_age_days": 885,
+        "public_repos": 30,
+        "public_gists": 0,
+        "followers": 1,
+        "following": 1,
+        "days_since_update": 5,
+        "is_hireable": null,
+        "has_bio": false,
+        "has_company": false,
+        "has_blog": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/143269166?v=4",
+        "profile_url": "https://github.com/Xtract01"
+      },
+      "credibility_signal": {
+        "score": 55,
+        "flags": [
+          "empty_profile_many_repos"
+        ],
+        "account_age_years": 2.4,
+        "is_verified": false
+      },
+      "skill_signal": {
+        "primary_language": "C++",
+        "verified_languages": [
+          "C++",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "language_distribution": {
+          "C++": 42.0,
+          "JavaScript": 30.7,
+          "TypeScript": 18.6,
+          "CSS": 6.2,
+          "HTML": 1.6,
+          "Python": 0.7,
+          "EJS": 0.1
+        },
+        "original_repos": 27,
+        "avg_code_depth": 67.0,
+        "best_repositories": [
+          {
+            "repo_name": "devflow",
+            "url": "https://github.com/Xtract01/devflow",
+            "language": "TypeScript",
+            "description": null,
+            "best_repo_score": 78.0,
+            "category": "Primary Evidence",
+            "why_selected": [
+              "Single-author project with full ownership",
+              "Organized folder structure",
+              "Solo-built project",
+              "Multi-module architecture",
+              "Consistent development over time"
+            ],
+            "disclaimers": [],
+            "signals": {
+              "ownership": 100,
+              "ownership_breakdown": {
+                "authorship": 35,
+                "commit_dominance": 35,
+                "originality": 30
+              },
+              "engineering_depth": 70,
+              "documentation": 75,
+              "maturity": "iterative",
+              "maturity_score": 60
+            },
+            "details": {
+              "size_kb": 3280,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": true,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "total_commits": 9,
+                "author_commits": 9,
+                "commit_ratio": 1.0,
+                "days_span": 8,
+                "unique_commit_days": 6,
+                "first_commit": "2025-11-16T08:31:30+00:00",
+                "last_commit": "2025-11-24T21:14:50+00:00",
+                "is_iterative": true
+              }
+            }
+          },
+          {
+            "repo_name": "VidlyPro",
+            "url": "https://github.com/Xtract01/VidlyPro",
+            "language": "TypeScript",
+            "description": null,
+            "best_repo_score": 72.5,
+            "category": "Primary Evidence",
+            "why_selected": [
+              "Single-author project with full ownership",
+              "Organized folder structure",
+              "Solo-built project",
+              "Multi-module architecture",
+              "Well-documented with clear intent"
+            ],
+            "disclaimers": [
+              "Rapid development, minimal iteration history"
+            ],
+            "signals": {
+              "ownership": 95,
+              "ownership_breakdown": {
+                "authorship": 35,
+                "commit_dominance": 35,
+                "originality": 25
+              },
+              "engineering_depth": 70,
+              "documentation": 75,
+              "maturity": "quick-build",
+              "maturity_score": 40
+            },
+            "details": {
+              "size_kb": 143,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": true,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "total_commits": 6,
+                "author_commits": 6,
+                "commit_ratio": 1.0,
+                "days_span": 3,
+                "unique_commit_days": 4,
+                "first_commit": "2026-01-13T20:28:49+00:00",
+                "last_commit": "2026-01-16T20:38:32+00:00",
+                "is_iterative": false
+              }
+            }
+          },
+          {
+            "repo_name": "movie-app",
+            "url": "https://github.com/Xtract01/movie-app",
+            "language": "TypeScript",
+            "description": null,
+            "best_repo_score": 72.5,
+            "category": "Primary Evidence",
+            "why_selected": [
+              "Single-author project with full ownership",
+              "Organized folder structure",
+              "Solo-built project",
+              "Multi-module architecture",
+              "Well-documented with clear intent"
+            ],
+            "disclaimers": [
+              "Rapid development, minimal iteration history"
+            ],
+            "signals": {
+              "ownership": 95,
+              "ownership_breakdown": {
+                "authorship": 35,
+                "commit_dominance": 35,
+                "originality": 25
+              },
+              "engineering_depth": 70,
+              "documentation": 75,
+              "maturity": "quick-build",
+              "maturity_score": 40
+            },
+            "details": {
+              "size_kb": 468,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": true,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "total_commits": 8,
+                "author_commits": 8,
+                "commit_ratio": 1.0,
+                "days_span": 1,
+                "unique_commit_days": 3,
+                "first_commit": "2025-07-16T16:17:39+00:00",
+                "last_commit": "2025-07-18T14:48:20+00:00",
+                "is_iterative": false
+              }
+            }
+          },
+          {
+            "repo_name": "urlShortner",
+            "url": "https://github.com/Xtract01/urlShortner",
+            "language": "JavaScript",
+            "description": null,
+            "best_repo_score": 71.5,
+            "category": "Primary Evidence",
+            "why_selected": [
+              "Single-author project with full ownership",
+              "Solo-built project",
+              "Multi-module architecture",
+              "Consistent development over time",
+              "Has project documentation"
+            ],
+            "disclaimers": [
+              "Good structure, but no test suite detected"
+            ],
+            "signals": {
+              "ownership": 100,
+              "ownership_breakdown": {
+                "authorship": 35,
+                "commit_dominance": 35,
+                "originality": 30
+              },
+              "engineering_depth": 55,
+              "documentation": 60,
+              "maturity": "iterative",
+              "maturity_score": 65
+            },
+            "details": {
+              "size_kb": 15983,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": true,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "total_commits": 17,
+                "author_commits": 17,
+                "commit_ratio": 1.0,
+                "days_span": 19,
+                "unique_commit_days": 8,
+                "first_commit": "2025-08-15T20:54:55+00:00",
+                "last_commit": "2025-09-03T21:08:29+00:00",
+                "is_iterative": true
+              }
+            }
+          },
+          {
+            "repo_name": "movie_search",
+            "url": "https://github.com/Xtract01/movie_search",
+            "language": "JavaScript",
+            "description": null,
+            "best_repo_score": 71.5,
+            "category": "Primary Evidence",
+            "why_selected": [
+              "Single-author project with full ownership",
+              "Organized folder structure",
+              "Solo-built project",
+              "Well-documented with clear intent"
+            ],
+            "disclaimers": [
+              "High structural clarity, limited lifecycle evidence"
+            ],
+            "signals": {
+              "ownership": 95,
+              "ownership_breakdown": {
+                "authorship": 35,
+                "commit_dominance": 35,
+                "originality": 25
+              },
+              "engineering_depth": 70,
+              "documentation": 75,
+              "maturity": "one-shot",
+              "maturity_score": 35
+            },
+            "details": {
+              "size_kb": 184,
+              "stars": 0,
+              "contributor_count": 1,
+              "is_primary_contributor": true,
+              "has_tests": false,
+              "has_ci_cd": false,
+              "commit_analysis": {
+                "total_commits": 4,
+                "author_commits": 4,
+                "commit_ratio": 1.0,
+                "days_span": 7,
+                "unique_commit_days": 2,
+                "first_commit": "2025-04-16T20:18:39+00:00",
+                "last_commit": "2025-04-23T20:30:42+00:00",
+                "is_iterative": false
+              }
+            }
+          }
+        ]
+      },
+      "consistency_signal": {
+        "score": 55,
+        "commits_last_30_days": 103,
+        "commits_last_year": 187,
+        "active_weeks_ratio": 0.48,
+        "max_gap_days": 300,
+        "patterns": [
+          "long_inactivity_gaps"
+        ],
+        "days_since_last_commit": 0
+      },
+      "summary": {
+        "credibility_verified": true,
+        "primary_skill": "C++",
+        "is_consistent": true,
+        "is_active": true,
+        "red_flags": [
+          "empty_profile_many_repos",
+          "long_inactivity_gaps"
+        ]
+      },
+      "raw": {
+        "repos": [
+          {
+            "name": "Leetcode-Solutions",
+            "url": "https://github.com/Xtract01/Leetcode-Solutions",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2025-08-26T14:58:31Z",
+            "updated_at": "2026-01-27T15:20:03Z",
+            "pushed_at": "2026-01-27T15:18:48Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 543,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "movieBookingBackend",
+            "url": "https://github.com/Xtract01/movieBookingBackend",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2026-01-18T18:58:01Z",
+            "updated_at": "2026-01-26T20:04:17Z",
+            "pushed_at": "2026-01-26T20:04:14Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 25,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "chatDPT",
+            "url": "https://github.com/Xtract01/chatDPT",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2026-01-25T09:14:14Z",
+            "updated_at": "2026-01-26T12:08:41Z",
+            "pushed_at": "2026-01-26T12:08:37Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 37,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "CP-31",
+            "url": "https://github.com/Xtract01/CP-31",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2025-10-04T20:43:15Z",
+            "updated_at": "2026-01-25T22:25:26Z",
+            "pushed_at": "2026-01-25T22:25:22Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 44,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "VidlyPro",
+            "url": "https://github.com/Xtract01/VidlyPro",
+            "description": null,
+            "language": "TypeScript",
+            "is_fork": false,
+            "created_at": "2026-01-13T20:34:48Z",
+            "updated_at": "2026-01-16T20:38:42Z",
+            "pushed_at": "2026-01-16T20:38:38Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 143,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "CSES",
+            "url": "https://github.com/Xtract01/CSES",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2025-11-28T21:43:32Z",
+            "updated_at": "2025-11-29T21:18:26Z",
+            "pushed_at": "2025-11-29T21:18:14Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 4,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "devflow",
+            "url": "https://github.com/Xtract01/devflow",
+            "description": null,
+            "language": "TypeScript",
+            "is_fork": false,
+            "created_at": "2025-11-16T10:49:26Z",
+            "updated_at": "2025-11-24T21:15:00Z",
+            "pushed_at": "2025-11-24T21:14:56Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 3280,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "DSA",
+            "url": "https://github.com/Xtract01/DSA",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2025-07-19T16:48:32Z",
+            "updated_at": "2025-11-16T16:01:43Z",
+            "pushed_at": "2025-11-16T16:01:40Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 16986,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "English-Improvement-system",
+            "url": "https://github.com/Xtract01/English-Improvement-system",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-11-14T16:42:43Z",
+            "updated_at": "2025-11-14T16:48:43Z",
+            "pushed_at": "2025-11-14T16:48:40Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 25,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "chatApp",
+            "url": "https://github.com/Xtract01/chatApp",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-10-02T19:30:56Z",
+            "updated_at": "2025-11-02T18:17:31Z",
+            "pushed_at": "2025-11-02T18:17:27Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 4718,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Xtract01",
+            "url": "https://github.com/Xtract01/Xtract01",
+            "description": "Hello world this is my profile",
+            "language": null,
+            "is_fork": false,
+            "created_at": "2025-07-17T12:06:38Z",
+            "updated_at": "2025-10-06T20:40:12Z",
+            "pushed_at": "2025-10-06T20:40:09Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 22,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "OpenSauce",
+            "url": "https://github.com/Xtract01/OpenSauce",
+            "description": "Star the repo and add your DSA codes here, in any language!!",
+            "language": "Java",
+            "is_fork": true,
+            "created_at": "2025-10-05T08:47:57Z",
+            "updated_at": "2025-10-05T09:52:09Z",
+            "pushed_at": "2025-10-05T09:52:05Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 93,
+            "has_issues": false,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "mern-expense-tracker",
+            "url": "https://github.com/Xtract01/mern-expense-tracker",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": true,
+            "created_at": "2025-10-04T15:16:49Z",
+            "updated_at": "2025-10-04T15:33:00Z",
+            "pushed_at": "2025-10-04T15:32:56Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 73,
+            "has_issues": false,
+            "has_wiki": false,
+            "topics": [],
+            "default_branch": "master"
+          },
+          {
+            "name": "Scratch-Backend",
+            "url": "https://github.com/Xtract01/Scratch-Backend",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-09-08T19:25:20Z",
+            "updated_at": "2025-09-15T20:03:42Z",
+            "pushed_at": "2025-09-15T20:03:38Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 20,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Facial-Recognition-Attendance",
+            "url": "https://github.com/Xtract01/Facial-Recognition-Attendance",
+            "description": null,
+            "language": "Python",
+            "is_fork": false,
+            "created_at": "2025-09-11T16:00:35Z",
+            "updated_at": "2025-09-11T16:12:01Z",
+            "pushed_at": "2025-09-11T16:11:58Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 242,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "urlShortner",
+            "url": "https://github.com/Xtract01/urlShortner",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-08-15T20:54:44Z",
+            "updated_at": "2025-09-03T21:08:32Z",
+            "pushed_at": "2025-09-03T21:08:29Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 15983,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "movie-app",
+            "url": "https://github.com/Xtract01/movie-app",
+            "description": null,
+            "language": "TypeScript",
+            "is_fork": false,
+            "created_at": "2025-07-17T05:06:53Z",
+            "updated_at": "2025-07-18T15:01:41Z",
+            "pushed_at": "2025-07-18T14:48:31Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 468,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "master"
+          },
+          {
+            "name": "movie_search",
+            "url": "https://github.com/Xtract01/movie_search",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-04-16T20:17:35Z",
+            "updated_at": "2025-07-04T09:43:07Z",
+            "pushed_at": "2025-04-23T20:30:43Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 184,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "real-time-tracker",
+            "url": "https://github.com/Xtract01/real-time-tracker",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-06-28T18:52:15Z",
+            "updated_at": "2025-06-28T19:18:32Z",
+            "pushed_at": "2025-06-28T18:53:40Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 1978,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Weather-app",
+            "url": "https://github.com/Xtract01/Weather-app",
+            "description": null,
+            "language": "TypeScript",
+            "is_fork": false,
+            "created_at": "2025-04-23T21:46:49Z",
+            "updated_at": "2025-04-23T22:14:10Z",
+            "pushed_at": "2025-04-23T22:14:02Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 173,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "gmail_clone",
+            "url": "https://github.com/Xtract01/gmail_clone",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-04-16T20:10:39Z",
+            "updated_at": "2025-04-16T20:13:00Z",
+            "pushed_at": "2025-04-16T20:11:34Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 38,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Focus-Timer",
+            "url": "https://github.com/Xtract01/Focus-Timer",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2025-03-26T20:39:44Z",
+            "updated_at": "2025-03-26T20:47:26Z",
+            "pushed_at": "2025-03-26T20:47:22Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 59,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "ml-road",
+            "url": "https://github.com/Xtract01/ml-road",
+            "description": "Machine Learning Resources, Practice and Research",
+            "language": null,
+            "is_fork": true,
+            "created_at": "2025-01-29T18:06:03Z",
+            "updated_at": "2025-01-29T18:06:03Z",
+            "pushed_at": "2024-06-26T12:51:47Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 327454,
+            "has_issues": false,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "master"
+          },
+          {
+            "name": "React-Quiz",
+            "url": "https://github.com/Xtract01/React-Quiz",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2024-12-25T18:14:39Z",
+            "updated_at": "2024-12-25T18:19:34Z",
+            "pushed_at": "2024-12-25T18:19:30Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 181,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "water-intake",
+            "url": "https://github.com/Xtract01/water-intake",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2024-09-16T02:17:43Z",
+            "updated_at": "2024-09-16T02:19:39Z",
+            "pushed_at": "2024-09-16T02:19:36Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 2,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "TECH-Project",
+            "url": "https://github.com/Xtract01/TECH-Project",
+            "description": null,
+            "language": "C++",
+            "is_fork": false,
+            "created_at": "2024-05-19T18:54:27Z",
+            "updated_at": "2024-05-19T19:00:29Z",
+            "pushed_at": "2024-05-19T19:00:26Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 305,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Quiz-app",
+            "url": "https://github.com/Xtract01/Quiz-app",
+            "description": null,
+            "language": "JavaScript",
+            "is_fork": false,
+            "created_at": "2024-03-26T07:42:26Z",
+            "updated_at": "2024-03-26T07:42:46Z",
+            "pushed_at": "2024-03-26T07:42:42Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 2,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Light-Dark-Mode",
+            "url": "https://github.com/Xtract01/Light-Dark-Mode",
+            "description": null,
+            "language": "CSS",
+            "is_fork": false,
+            "created_at": "2024-02-23T21:31:46Z",
+            "updated_at": "2024-02-23T21:36:47Z",
+            "pushed_at": "2024-02-23T21:38:03Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 21,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Quote-Generator",
+            "url": "https://github.com/Xtract01/Quote-Generator",
+            "description": null,
+            "language": "CSS",
+            "is_fork": false,
+            "created_at": "2024-02-22T20:06:10Z",
+            "updated_at": "2024-02-22T20:06:46Z",
+            "pushed_at": "2024-02-22T20:06:43Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 2,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          },
+          {
+            "name": "Guess-the-number",
+            "url": "https://github.com/Xtract01/Guess-the-number",
+            "description": null,
+            "language": "CSS",
+            "is_fork": false,
+            "created_at": "2024-02-20T19:10:37Z",
+            "updated_at": "2024-02-20T19:19:23Z",
+            "pushed_at": "2024-02-20T19:19:18Z",
+            "stars": 0,
+            "forks": 0,
+            "size": 1,
+            "has_issues": true,
+            "has_wiki": true,
+            "topics": [],
+            "default_branch": "main"
+          }
+        ],
+        "commit_activity": {
+          "total_commits_analyzed": 199,
+          "commits_last_30_days": 103,
+          "commits_last_90_days": 161,
+          "commits_last_year": 187,
+          "max_gap_days": 300,
+          "avg_gap_days": 3.2,
+          "weekend_commits_pct": 34.7,
+          "weekday_commits_pct": 65.3,
+          "active_weeks_ratio": 0.48,
+          "weeks_with_commits": 25,
+          "patterns": [
+            "long_inactivity_gaps"
+          ],
+          "first_commit": "2024-03-23T18:14:10+00:00",
+          "last_commit": "2026-01-27T15:18:48+00:00",
+          "days_since_last_commit": 0
+        }
+      }
+    },
+    "ats_resume": {
+      "source": "ats_resume_pdf",
+      "extraction_method": "agentic_narrative_validation",
+      "timestamp": "2026-01-27T21:19:40Z",
+      "agent_metadata": {
+        "agent": "ats_evidence_agent",
+        "version": "2026.2",
+        "framework": "antigravity-compatible",
+        "extraction_time_seconds": 55.7,
+        "deep_check_enabled": false
+      },
+      "identity": {
+        "name": "Anirudh Singh",
+        "public_links": [
+          "github_present",
+          "linkedin_present"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Self-Employed",
+          "role": "Freelance Front-End Developer and UI Designer",
+          "timeframe": "Mar 2019 \u2013 Present",
+          "claims": [
+            {
+              "action": "Designed and developed responsive websites focused on performance and user experience using HTML, CSS, JavaScript, and React.js.",
+              "technology": [
+                "React.js",
+                "HTML",
+                "CSS",
+                "JavaScript"
+              ],
+              "outcome": null,
+              "evidence_strength": "high"
+            },
+            {
+              "action": "Created clean, intuitive interfaces aligned with client branding and UX principles.",
+              "technology": [],
+              "outcome": null,
+              "evidence_strength": "medium"
+            }
+          ]
+        },
+        {
+          "company": "Self-Employed",
+          "role": "Freelance Web Designer, Web Extractor and C++ Programmer",
+          "timeframe": "Feb 2020 \u2013 Present",
+          "claims": [
+            {
+              "action": "Developed custom C++ applications tailored to client requirements.",
+              "technology": [
+                "C++"
+              ],
+              "outcome": null,
+              "evidence_strength": "high"
+            },
+            {
+              "action": "Crafted sleek and modern web designs using best practices in front-end development.",
+              "technology": [],
+              "outcome": null,
+              "evidence_strength": "medium"
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Real-Time Chat Application",
+          "claims": [
+            {
+              "description": "Built full-stack messaging app with real-time communication using Socket.IO and WebSockets.",
+              "technology": [
+                "WebSockets",
+                "Socket.IO"
+              ],
+              "outcome": null,
+              "evidence_strength": "high"
+            },
+            {
+              "description": "Implemented JWT authentication, Redux state management, and RESTful API architecture.",
+              "technology": [
+                "RESTful",
+                "JWT",
+                "Redux"
+              ],
+              "outcome": null,
+              "evidence_strength": "high"
+            },
+            {
+              "description": "Deployed on Render with optimized CORS, production error handling, and secure cookies.",
+              "technology": [],
+              "outcome": null,
+              "evidence_strength": "medium"
+            }
+          ]
+        },
+        {
+          "project_name": "URL Shortener",
+          "claims": [
+            {
+              "description": "Designed and developed a full-stack URL shortener using JavaScript. Structured with separate backend and frontend components.",
+              "technology": [
+                "JavaScript"
+              ],
+              "outcome": null,
+              "evidence_strength": "high"
+            },
+            {
+              "description": "Successfully implemented core features including link creation, redirection handling, and project organization.",
+              "technology": [],
+              "outcome": null,
+              "evidence_strength": "medium"
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "skill": "C++"
+        },
+        {
+          "skill": "Python"
+        },
+        {
+          "skill": "Java"
+        },
+        {
+          "skill": "JavaScript"
+        },
+        {
+          "skill": "SQL"
+        },
+        {
+          "skill": "HTML"
+        },
+        {
+          "skill": "CSS"
+        },
+        {
+          "skill": "Node.js"
+        },
+        {
+          "skill": "Express.js"
+        },
+        {
+          "skill": "REST APIs"
+        },
+        {
+          "skill": "JWT Authentication"
+        },
+        {
+          "skill": "React.js"
+        },
+        {
+          "skill": "Next.js"
+        },
+        {
+          "skill": "T ailwind CSS"
+        },
+        {
+          "skill": "Responsive Web Design"
+        },
+        {
+          "skill": "MongoDB"
+        },
+        {
+          "skill": "PostgreSQL"
+        },
+        {
+          "skill": "MySQL"
+        },
+        {
+          "skill": "Git"
+        },
+        {
+          "skill": "GitHub"
+        },
+        {
+          "skill": "Docker "
+        },
+        {
+          "skill": "Linux"
+        },
+        {
+          "skill": "AWS"
+        },
+        {
+          "skill": "VS Code"
+        },
+        {
+          "skill": "Postman"
+        }
+      ]
+    },
+    "linkedin": {
+      "source": "linkedin_pdf",
+      "parse_method": "regex_fallback",
+      "identity": {
+        "name": "Contact",
+        "headline": "anirudh.singh2634@gmail.com",
+        "location": ""
+      },
+      "experience": {
+        "total_years": 0.0,
+        "consistency": "stable",
+        "timeline": []
+      },
+      "skills": {
+        "claimed": [
+          "SQL",
+          "Python",
+          "MySQL",
+          "C++"
+        ]
+      },
+      "education": [],
+      "raw_text_sample": "Contact\nanirudh.singh2634@gmail.com\nwww.linkedin.com/in/anirudh-\nsingh-6b88aa209 (LinkedIn)\nTop Skills\nMySQL\nPython (Programming Language)\nCertifications\nLearn Advanced HTML and\nCSS Concepts [Updated - 2023]\nCertificate\nBharat Blockchain Yatra\nDSA in C++\nAmazon Web Services Training and\nCertification\nCybersecurity Essentials\nAnirudh Singh\n500+ DSA @Leetcode | Web Dev | CS\u201927 | Passionate about\nlearning and exploring new technologies.\nNew Delhi, Delhi, India\nSummary\nHello, I'm Anirudh Singh,  Com"
+    },
+    "leetcode": {
+      "rank": "136222",
+      "level": "N/A",
+      "contest_rating": 1633,
+      "problems_solved": 564,
+      "top_skills": [
+        "Dynamic Programming (Adv)",
+        "Backtracking (Adv)",
+        "Divide and Conquer (Adv)",
+        "Hash Table",
+        "Math",
+        "Depth-First Search"
+      ],
+      "top_language": "C++",
+      "badges": 15
+    },
+    "codeforces": {
+      "rank": "Newbie",
+      "rating": 916,
+      "max_rating": 916,
+      "problems_solved": 60,
+      "top_skills": [
+        "math",
+        "greedy",
+        "brute force",
+        "implementation",
+        "constructive algorithms"
+      ],
+      "top_language": "C++17 (GCC 7-32)",
+      "organization": "Inderprastha Engineering College, Ghaziabad",
+      "contribution": 0
+    }
+  },
+  "evaluation_id": null
+}
